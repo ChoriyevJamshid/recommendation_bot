@@ -2,25 +2,24 @@ from parsing.parsers import *
 
 categories = {
     'smartphone': {
-        'category': 'katalog',
-        'subcategory': 'smartfony',
+        'category': 'smartfony',
+        'subcategory': '',
     }
 }
-
 dir_name = str(os.path.dirname(__file__)).split('/')[-1]
 
 
 class Parser(BaseParser):
     def __init__(self, category, subcategory, dirname):
         super().__init__(dirname)
-        self.URL = "https://texnomart.uz"
+        self.URL = 'https://market.beeline.uz'
         self.category = category
         self.subcategory = subcategory
 
     async def get_soup(self, page=None):
-        url = f"{self.URL}/ru/{self.category}/{self.subcategory}/"
+        url = f"{self.URL}/ru/{self.category}"
 
-        # print(f'\n{url}\n')
+        print(f'\n{url}\n')
 
         if page is not None:
             url += f"?page={page}"
@@ -29,7 +28,7 @@ class Parser(BaseParser):
         }
 
         html, status = await self.async_fetch(url=url, headers=headers)
-        # print(f"\nStatus code: {status}\n")
+        print(f"\nStatus code: {status}\n")
         soup = BeautifulSoup(html, 'html.parser')
         return soup
 
@@ -38,34 +37,28 @@ class Parser(BaseParser):
         page_data: dict = {}
         soup = await self.get_soup(page_number)
 
-        cards = soup.find_all("div", class_="product-item-wrapper")
+        cards = soup.find_all('a', class_='product-card')
 
         for card in cards:
-
-            link = self.URL + card.find("a", class_="product-name")['href']
-            title = card.find("a", class_="product-name").get_text(strip=True)
-            price = get_number_from_text(card.find("div", class_="product-price__current").get_text(strip=True))
-            price_credit = get_number_from_text(card.find("div", class_="installment-price").get_text(strip=True))
+            link = self.URL + card['href']
+            title = card.find("h3", class_="product-card__name").get_text(strip=True)
+            price = get_number_from_text(card.find("p", class_="text-base").get_text(strip=True))
 
             data = {
                 'link': link,
                 'title': title,
                 'price': price,
-                'price_credit': price_credit,
             }
 
             i += 1
             page_data[str(i)] = data
-        print(len(page_data))
         return page_data
 
     async def get_total_page(self) -> int:
         soup = await self.get_soup()
-        pagination = soup.select(
-            "#catalog__page > div.catalog-content__products > div:nth-child(2) > div.pagination > div > div.vue-ads-flex-grow.vue-ads-flex.vue-ads-justify-end > button:nth-child(8)")
-        number = pagination[0].get_text(strip=True)
+        pagination = soup.find_all("button", class_="app-pagination__num-btn")[-1]
+        number = pagination.get_text(strip=True)
         if number:
-            print("Total pages:", number)
             return int(number)
         return 0
 

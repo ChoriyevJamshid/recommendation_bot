@@ -77,8 +77,8 @@ class Parser(BaseParser):
                 'price_credit': price_credit,
             }
 
-            page_data[str(i)] = data
             i += 1
+            page_data[str(i)] = data
         return page_data
 
     async def get_total_page(self) -> int:

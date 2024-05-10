@@ -1,0 +1,747 @@
+{
+    "0": {
+        "link": "https://sello.uz/product/smartfon-poco-x6-pro-black-8256-gb",
+        "title": "Смартфон Poco X6 Pro, Black, 8/256 GB",
+        "price": 4666000
+    },
+    "1": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s24-ultra-titanium-gray-12256-gb",
+        "title": "Смартфон Samsung Galaxy S24 Ultra, Titanium Gray, 12/256 GB",
+        "price": 14444000
+    },
+    "2": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-note-12-pro-sinij-8256-gb",
+        "title": "Смартфон Xiaomi Redmi Note 12 Pro, Синий, 8/256 GB",
+        "price": 3299000
+    },
+    "3": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-note-12-pro-seryj-8256-gb",
+        "title": "Смартфон Xiaomi Redmi Note 12 Pro, Серый, 8/256 GB",
+        "price": 415893000
+    },
+    "4": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-13c-chernyj-8256-gb",
+        "title": "Смартфон Xiaomi Redmi 13C, Черный, 8/256 GB",
+        "price": 2270000
+    },
+    "5": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-go-2023-endless-black-464-gb",
+        "title": "Смартфон Tecno Spark Go 2023, Endless Black, 4/64 GB",
+        "price": 1300000
+    },
+    "6": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-14-pro-deep-purple-128-gb",
+        "title": "Смартфон Apple iPhone 14 Pro, Deep Purple, 128 GB",
+        "price": 14709000
+    },
+    "7": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-10c-chernyj-4128-gb",
+        "title": "Смартфон Tecno Spark 10C, Черный, 4/128 GB",
+        "price": 1800000
+    },
+    "8": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-12-sinij-4128-gb",
+        "title": "Смартфон Xiaomi Redmi 12, Синий, 4/128 GB",
+        "price": 2099000
+    },
+    "9": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-10-chernyj-8128-gb",
+        "title": "Смартфон Tecno Spark 10, Черный, 8/128 GB",
+        "price": 2599000
+    },
+    "10": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-10c-zelenyj-4128-gb",
+        "title": "Смартфон Tecno Spark 10C, Зеленый, 4/128 GB",
+        "price": 2499000
+    },
+    "11": {
+        "link": "https://sello.uz/product/smartfon-tecno-camon-20-pro-sinij-8256-gb",
+        "title": "Смартфон Tecno Camon 20 PRO, Синий, 8/256 GB",
+        "price": 3799000
+    },
+    "12": {
+        "link": "https://sello.uz/product/smartfon-tecno-pova-5-zolotoj-8128-gb",
+        "title": "Смартфон Tecno Pova 5, Золотой, 8/128 GB",
+        "price": 3395000
+    },
+    "13": {
+        "link": "https://sello.uz/product/smartfon-tecno-pova-5-chernyj-8128-gb",
+        "title": "Смартфон Tecno Pova 5, Черный, 8/128 GB",
+        "price": 3445000
+    },
+    "14": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-10-sinij-8128-gb",
+        "title": "Смартфон Tecno Spark 10, Синий, 8/128 GB",
+        "price": 2599000
+    },
+    "15": {
+        "link": "https://sello.uz/product/smartfony-xiaomi-redmi-note-12-4g-zelenyj-4128-gb",
+        "title": "Смартфоны Xiaomi Redmi Note 12 4G, Зеленый, 4/128 GB",
+        "price": 2229000
+    },
+    "16": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-go-2024-gravity-black-464-gb-besprovodnye-naushniki-tws-m10-chernyj-v-podarok",
+        "title": "Смартфон Tecno Spark Go 2024, Gravity Black, 4/64 GB + Беспроводные наушники TWS М10, Черный в подарок",
+        "price": 271579000
+    },
+    "17": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s22-chernyj-8256-gb",
+        "title": "Смартфон Samsung Galaxy S22, Черный, 8/256 GB",
+        "price": 7582050
+    },
+    "18": {
+        "link": "https://sello.uz/product/cmartfon-samsung-galaxy-s21-fe-ceryj-8256-gb",
+        "title": "Cмартфон Samsung Galaxy S21 FE, Cерый, 8/256 GB",
+        "price": 8486000
+    },
+    "19": {
+        "link": "https://sello.uz/product/cmartfon-samsung-galaxy-s21-fe-lavandovyj-8256-gb",
+        "title": "Cмартфон Samsung Galaxy S21 FE, Лавандовый, 8/256 GB",
+        "price": 8486000
+    },
+    "20": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a34-chernyj-6128-gb",
+        "title": "Смартфон Samsung Galaxy A34, Черный, 6/128 GB",
+        "price": 3250000
+    },
+    "21": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-note-12-sinij-8128-gb",
+        "title": "Смартфон Xiaomi Redmi Note 12, Синий, 8/128 GB",
+        "price": 2434000
+    },
+    "22": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-note-12s-zelenyj-8256-gb",
+        "title": "Смартфон Xiaomi Redmi Note 12S, Зеленый, 8/256 GB",
+        "price": 2599000
+    },
+    "23": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-note-12-zelenyj-6128-gb",
+        "title": "Смартфон Xiaomi Redmi Note 12, Зеленый, 6/128 GB",
+        "price": 2199000
+    },
+    "24": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a05s-fioletovyj-4128-gb",
+        "title": "Смартфон Samsung Galaxy A05s, Фиолетовый, 4/128 GB",
+        "price": 1849000
+    },
+    "25": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a05s-serebristyj-4128-gb",
+        "title": "Смартфон Samsung Galaxy A05s, Серебристый, 4/128 GB",
+        "price": 1888000
+    },
+    "26": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a05s-chernyj-4128-gb",
+        "title": "Смартфон Samsung Galaxy A05s, Черный, 4/128 GB",
+        "price": 1849000
+    },
+    "27": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a05-serebristyj-4128-gb",
+        "title": "Смартфон Samsung Galaxy A05, Серебристый, 4/128 GB",
+        "price": 101760408
+    },
+    "28": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a05-zelenyj-4128-gb",
+        "title": "Смартфон Samsung Galaxy A05, Зеленый, 4/128 GB",
+        "price": 61699000
+    },
+    "29": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a05-chernyj-4128-gb",
+        "title": "Смартфон Samsung Galaxy A05, Черный, 4/128 GB",
+        "price": 61699000
+    },
+    "30": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-poco-m4-pro-5g-n1",
+        "title": "Смартфон Xiaomi Poco M4 Pro 5G, Синий, 4/64GB",
+        "price": 2280000
+    },
+    "31": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-poco-m4-pro-5g-n2",
+        "title": "Смартфон Xiaomi Poco M4 Pro 5G, Чёрный, 4/64GB",
+        "price": 2280000
+    },
+    "32": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-poco-c40-coral-green-464-gb",
+        "title": "Смартфон Xiaomi Poco C40, Coral green, 4/64 GB",
+        "price": 1549000
+    },
+    "33": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s23-ultra-chernyj-12512-gb",
+        "title": "Смартфон Samsung Galaxy S23 Ultra, Черный, 12/512 GB",
+        "price": 12999000
+    },
+    "34": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s23-ultra-zelenyj-12512-gb",
+        "title": "Смартфон Samsung Galaxy S23 Ultra, Зеленый, 12/512 GB",
+        "price": 12999000
+    },
+    "35": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s23-plus-zelenyj-8256-gb",
+        "title": "Смартфон Samsung Galaxy S23 Plus, Зеленый, 8/256 GB",
+        "price": 9777000
+    },
+    "36": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s23-ultra-chernyj-12256-gb",
+        "title": "Смартфон Samsung Galaxy S23 Ultra, Черный, 12/256 GB",
+        "price": 10999000
+    },
+    "37": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s23-chernyj-8256-gb",
+        "title": "Смартфон Samsung Galaxy S23, Черный, 8/256 GB",
+        "price": 8444000
+    },
+    "38": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s23-plus-chernyj-8256-gb",
+        "title": "Смартфон Samsung Galaxy S23 Plus, Черный, 8/256 GB",
+        "price": 9777000
+    },
+    "39": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s23-plus-rozovyj-8512-gb",
+        "title": "Смартфон Samsung Galaxy S23 Plus, Розовый, 8/512 GB",
+        "price": 14990000
+    },
+    "40": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a24-sm-a245-chernyj-6128-gb",
+        "title": "Смартфон Samsung Galaxy A24 (SM-A245), Черный, 6/128 GB",
+        "price": 3115000
+    },
+    "41": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-12c-chernyj-4128-gb",
+        "title": "Смартфон Xiaomi Redmi 12C, Черный, 4/128 GB",
+        "price": 1906000
+    },
+    "42": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s23-s916-kremovyj-8256-gb",
+        "title": "Смартфон Samsung Galaxy S23+ (S916), Кремовый, 8/256 GB",
+        "price": 13912000
+    },
+    "43": {
+        "link": "https://sello.uz/product/smartfon-poco-x5-5g-ru-green-8256-gb",
+        "title": "Смартфон Poco X5 5G RU, Green, 8/256 GB",
+        "price": 3400000
+    },
+    "44": {
+        "link": "https://sello.uz/product/smartfon-poco-c40-coral-green-464-gb",
+        "title": "Смартфон Poco C40, Coral green, 4/64 GB",
+        "price": 1459000
+    },
+    "45": {
+        "link": "https://sello.uz/product/smartfon-poco-x5-5g-eu-black-8256-gb",
+        "title": "Смартфон Poco X5 5G EU, Black, 8/256 GB",
+        "price": 3400000
+    },
+    "46": {
+        "link": "https://sello.uz/product/smartfon-poco-x5-5g-ru-blue-8256-gb",
+        "title": "Смартфон Poco X5 5G RU, Blue, 8/256 GB",
+        "price": 3400000
+    },
+    "47": {
+        "link": "https://sello.uz/product/smartfon-honor-x8a-chernyj-6128-gb",
+        "title": "Смартфон Honor X8a, Черный, 6/128 GB",
+        "price": 2972000
+    },
+    "48": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-a2-light-blue-232-gb",
+        "title": "Смартфон Xiaomi Redmi A2+, Light blue, 2/32 GB",
+        "price": 1199000
+    },
+    "49": {
+        "link": "https://sello.uz/product/smartfon-honor-x6-midnight-black-464-gb",
+        "title": "Смартфон Honor X6, Midnight black, 4/64 GB",
+        "price": 1940400
+    },
+    "50": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-10-2022-sea-blue-6128-gb",
+        "title": "Смартфон Xiaomi Redmi 10 2022, Sea Blue, 6/128 GB",
+        "price": 1899000
+    },
+    "51": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-15-pro-blue-titanium-256-gb-nano-sim-esim",
+        "title": "Смартфон Apple iPhone 15 Pro, Blue Titanium, 256 GB, Nano SIM-eSim",
+        "price": 16099000
+    },
+    "52": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-13c-belyj-6128-gb",
+        "title": "Смартфон Xiaomi 13C, Белый, 6/128 GB",
+        "price": 443050000
+    },
+    "53": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-13c-belyj-8256-gb",
+        "title": "Смартфон Xiaomi 13C, Белый, 8/256 GB",
+        "price": 2099000
+    },
+    "54": {
+        "link": "https://sello.uz/product/smartfon-honor-x9b-5g-zelenyj-8256-gb",
+        "title": "Смартфон Honor X9b 5G, Зеленый, 8/256 GB + gift box в подарок",
+        "price": 4315000
+    },
+    "55": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-13c-chernyj-8256-gb",
+        "title": "Смартфон Xiaomi 13C, Черный, 8/256 GB",
+        "price": 483573000
+    },
+    "56": {
+        "link": "https://sello.uz/product/smartfon-honor-x9b-5g-oranzhevyj-12256-gb",
+        "title": "Смартфон Honor X9b 5G, Оранжевый, 12/256 GB + gift box в подарок",
+        "price": 4761000
+    },
+    "57": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-13c-sinij-6128-gb",
+        "title": "Смартфон Xiaomi 13C, Синий, 6/128 GB",
+        "price": 443050000
+    },
+    "58": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-13c-belyj-4128-gb",
+        "title": "Смартфон Xiaomi 13C, Белый, 4/128 GB",
+        "price": 342250000
+    },
+    "59": {
+        "link": "https://sello.uz/product/smartfon-honor-x9b-5g-chernyj-8256-gb",
+        "title": "Смартфон Honor X9b 5G, Черный, 8/256 GB",
+        "price": 4315000
+    },
+    "60": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-13c-chernyj-4128-gb",
+        "title": "Смартфон Xiaomi 13C, Черный, 4/128 GB",
+        "price": 342250000
+    },
+    "61": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-13c-sinij-8256-gb",
+        "title": "Смартфон Xiaomi 13C, Синий, 8/256 GB",
+        "price": 483573000
+    },
+    "62": {
+        "link": "https://sello.uz/product/smartfon-infinix-note-30-chernyj-8128-gb",
+        "title": "Смартфон Infinix Note 30, Черный, 8/128 GB",
+        "price": 2349000
+    },
+    "63": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a54-chernyj-8128-gb",
+        "title": "Смартфон Samsung Galaxy A54, Черный, 8/128 GB",
+        "price": 3999000
+    },
+    "64": {
+        "link": "https://sello.uz/product/smartfon-infinix-note-30-chernyj-8256-gb",
+        "title": "Смартфон Infinix Note 30, Черный, 8/256 GB",
+        "price": 2699000
+    },
+    "65": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s23-fe-myatnyj-8128-gb",
+        "title": "Смартфон Samsung Galaxy S23 FE, Мятный, 8/128 GB",
+        "price": 6549000
+    },
+    "66": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-15-pro-blue-titanium-128-gb-esim",
+        "title": "Смартфон Apple iPhone 15 Pro, Blue Titanium, 128 GB, eSim",
+        "price": 13850000
+    },
+    "67": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-15-pro-natural-titanium-128-gb-esim",
+        "title": "Смартфон Apple iPhone 15 Pro, Natural Titanium, 128 GB, eSim",
+        "price": 13850000
+    },
+    "68": {
+        "link": "https://sello.uz/product/smartfon-infinix-note-30-pro-zolotistyj-8256-gb",
+        "title": "Смартфон Infinix Note 30 Pro, Золотистый, 8/256 GB",
+        "price": 3050250
+    },
+    "69": {
+        "link": "https://sello.uz/product/smartfon-infinix-note-30-zolotistyj-8256-gb",
+        "title": "Смартфон Infinix Note 30, Золотистый, 8/256 GB",
+        "price": 2726550
+    },
+    "70": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a34-lajmovyj-8256-gb",
+        "title": "Смартфон Samsung Galaxy A34, Лаймовый, 8/256 GB",
+        "price": 3599000
+    },
+    "71": {
+        "link": "https://sello.uz/product/smartfon-infinix-note-30-oranzhevyj-8128-gb",
+        "title": "Смартфон Infinix Note 30, Оранжевый, 8/128 GB",
+        "price": 2340600
+    },
+    "72": {
+        "link": "https://sello.uz/product/smartfon-infinix-zero-30-zelenyj-8256-gb",
+        "title": "Смартфон Infinix Zero 30, Зеленый, 8/256 GB",
+        "price": 3299000
+    },
+    "73": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-14-pro-space-black-128-gb",
+        "title": "Смартфон Apple iPhone 14 Pro, Space Black, 128 GB",
+        "price": 14709000
+    },
+    "74": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-15-rozovyj-256-gb",
+        "title": "Смартфон Apple iPhone 15, Розовый, 256 GB",
+        "price": 13495800
+    },
+    "75": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-15-zelenyj-256-gb",
+        "title": "Смартфон Apple iPhone 15, Зеленый, 256 GB",
+        "price": 13495800
+    },
+    "76": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-15-pro-black-titanium-512-gb",
+        "title": "Смартфон Apple iPhone 15 Pro, Black Titanium, 512 GB",
+        "price": 17700000
+    },
+    "77": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-15-pro-natural-titanium-256-gb",
+        "title": "Смартфон Apple iPhone 15 Pro, Natural Titanium, 256 GB",
+        "price": 17950000
+    },
+    "78": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-14-pro-max-deep-purple-128-gb",
+        "title": "Смартфон Apple iPhone 14 Pro Max, Deep Purple, 128 GB",
+        "price": 15511705
+    },
+    "79": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-a2-zelenyj-364-gb",
+        "title": "Смартфон Xiaomi Redmi A2+, Зеленый, 3/64 GB",
+        "price": 1250000
+    },
+    "80": {
+        "link": "https://sello.uz/product/smartfon-infinix-smart-7hd-chernyj-464-gb",
+        "title": "Смартфон Infinix Smart 7HD, Черный, 4/64 GB",
+        "price": 1129000
+    },
+    "81": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-z-fold-5-sinij-12512-gb",
+        "title": "Смартфон Samsung Galaxy Z Fold 5, Синий, 12/512 GB",
+        "price": 15888000
+    },
+    "82": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-z-fold-5-chernyj-12256-gb",
+        "title": "Смартфон Samsung Galaxy Z Fold 5, Черный, 12/256 GB",
+        "price": 15333000
+    },
+    "83": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-13-t-pro-chernyj-12256-gb",
+        "title": "Смартфон Xiaomi 13 T Pro, Черный, 12/256 GB",
+        "price": 7111000
+    },
+    "84": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s24-ultra-titanium-black-12256-gb",
+        "title": "Смартфон Samsung Galaxy S24 Ultra, Titanium Black, 12/256 GB",
+        "price": 14444000
+    },
+    "85": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a15-goluboj-6128-gb",
+        "title": "Смартфон Samsung Galaxy A15, Голубой, 6/128 GB",
+        "price": 1999000
+    },
+    "86": {
+        "link": "https://sello.uz/product/smartfon-honor-x8b-giftboks-midnight-black-8256-gb",
+        "title": "Смартфон Honor X8b + Гифтбокс, Midnight Black, 8/256 GB",
+        "price": 3399000
+    },
+    "87": {
+        "link": "https://sello.uz/product/smartfon-honor-x8b-giftboks-midnight-black-8128-gb",
+        "title": "Смартфон Honor X8b + Гифтбокс, Midnight Black, 8/128 GB",
+        "price": 3199000
+    },
+    "88": {
+        "link": "https://sello.uz/product/smartfon-honor-x8b-giftboks-titanium-silver-8256-gb",
+        "title": "Смартфон Honor X8b + Гифтбокс, Titanium Silver, 8/256 GB",
+        "price": 3399000
+    },
+    "89": {
+        "link": "https://sello.uz/product/smartfon-honor-x8b-giftboks-glamorous-green-8256-gb",
+        "title": "Смартфон Honor X8b + Гифтбокс, Glamorous Green, 8/256 GB",
+        "price": 3399000
+    },
+    "90": {
+        "link": "https://sello.uz/product/smartfon-honor-x8b-giftboks-titanium-silver-8128-gb",
+        "title": "Смартфон Honor X8b + Гифтбокс, Titanium Silver, 8/128 GB",
+        "price": 3199000
+    },
+    "91": {
+        "link": "https://sello.uz/product/cmartfon-novey-force-f15-fioletovyj-4128-gb",
+        "title": "Cмартфон Novey Force F15, Фиолетовый, 4/128 GB",
+        "price": 1885000
+    },
+    "92": {
+        "link": "https://sello.uz/product/smartfon-novey-alpha-a10-fioletovyj-4128-gb",
+        "title": "Смартфон Novey Alpha A10, Фиолетовый, 4/128 GB",
+        "price": 1745000
+    },
+    "93": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a25-5g-zheltyj-6128-gb",
+        "title": "Смартфон Samsung Galaxy A25 5G, Желтый, 6/128 GB",
+        "price": 3379000
+    },
+    "94": {
+        "link": "https://sello.uz/product/smartfon-honor-x9b-5g-zelenyj-8256-gb",
+        "title": "Смартфон Honor X9b 5G, Зеленый, 8/256 GB",
+        "price": 4999000
+    },
+    "95": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-12-polar-silver-4128-gb",
+        "title": "Смартфон Xiaomi Redmi 12, Polar silver, 4/128 GB",
+        "price": 2199000
+    },
+    "96": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-10-2022-pebble-white-464-gb",
+        "title": "Смартфон Xiaomi Redmi 10 2022, Pebble white, 4/64 GB",
+        "price": 2075000
+    },
+    "97": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-note-12-mint-green-6128-gb",
+        "title": "Смартфон Xiaomi Redmi Note 12, Mint green, 6/128 GB",
+        "price": 2299000
+    },
+    "98": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-10-2022-carbon-gray-464-gb",
+        "title": "Смартфон Xiaomi Redmi 10 2022, Carbon gray, 4/64 GB",
+        "price": 2075000
+    },
+    "99": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-12-midnight-black-8256-gb",
+        "title": "Смартфон Xiaomi Redmi 12, Midnight black, 8/256 GB",
+        "price": 2180000
+    },
+    "100": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-12-sky-blue-8256-gb",
+        "title": "Смартфон Xiaomi Redmi 12, Sky blue, 8/256 GB",
+        "price": 2180000
+    },
+    "101": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-a2-classic-black-364-gb",
+        "title": "Смартфон Xiaomi Redmi A2 +, Classic black, 3/64 GB",
+        "price": 1250000
+    },
+    "102": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-12-polar-silver-8256-gb",
+        "title": "Смартфон Xiaomi Redmi 12, Polar silver, 8/256 GB",
+        "price": 2477000
+    },
+    "103": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-poco-m4-pro-power-black-464-gb",
+        "title": "Смартфон Xiaomi Poco M4 Pro, Power black, 4/64 GB",
+        "price": 2280000
+    },
+    "104": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-poco-m4-pro-poco-yellow-464-gb",
+        "title": "Смартфон Xiaomi Poco M4 Pro, Poco yellow, 4/64 GB",
+        "price": 2280000
+    },
+    "105": {
+        "link": "https://sello.uz/product/smartfon-apple-iphone-15-black-128-gb",
+        "title": "Смартфон Apple iPhone 15, Black, 128 GB",
+        "price": 1703038022
+    },
+    "106": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-mi-13-lite-black-8256-gb",
+        "title": "Смартфон Xiaomi Mi 13 Lite, Black, 8/256 GB",
+        "price": 5595000
+    },
+    "107": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-20-chernyj-8128-gb",
+        "title": "Смартфон Tecno Spark 20, Черный, 8/128 GB",
+        "price": 413247000
+    },
+    "108": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-20c-zelenyj-4128-gb",
+        "title": "Смартфон Tecno Spark 20C, Зеленый, 4/128 GB",
+        "price": 422658000
+    },
+    "109": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-20c-chernyj-8128-gb",
+        "title": "Смартфон Tecno Spark 20C, Черный, 8/128 GB",
+        "price": 413005000
+    },
+    "110": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-20-zolotoj-8256-gb",
+        "title": "Смартфон Tecno Spark 20, Золотой, 8/256 GB",
+        "price": 2089000
+    },
+    "111": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-8p-antlanticheskj-sinij-464-gb",
+        "title": "Смартфон Tecno Spark 8P, Антлантическй синий, 4/64 GB",
+        "price": 1790000
+    },
+    "112": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-20-zolotoj-8128-gb",
+        "title": "Смартфон Tecno Spark 20, Золотой, 8/128 GB",
+        "price": 2154000
+    },
+    "113": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-8p-sinij-464-gb",
+        "title": "Смартфон Tecno Spark 8P, Синий, 4/64 GB",
+        "price": 1790000
+    },
+    "114": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a05-serebryannyj-4128-gb",
+        "title": "Смартфон Samsung Galaxy A05, Серебрянный, 4/128 GB",
+        "price": 1799000
+    },
+    "115": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a05-zelyonyj-4128-gb",
+        "title": "Смартфон Samsung Galaxy A05, Зелёный, 4/128 GB",
+        "price": 1799000
+    },
+    "116": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a24-krasnyj-6128-gb",
+        "title": "Смартфон Samsung Galaxy A24, Красный, 6/128 GB",
+        "price": 2899000
+    },
+    "117": {
+        "link": "https://sello.uz/product/smartfon-samsung-s23-fe-5g-chernyj-8256-gb",
+        "title": "Смартфон Samsung S23 FE 5G, Черный, 8/256 GB",
+        "price": 7650000
+    },
+    "118": {
+        "link": "https://sello.uz/product/smartfon-samsung-s23-fe-5g-kremovyj-8256-gb",
+        "title": "Смартфон Samsung S23 FE 5G, Кремовый, 8/256 GB",
+        "price": 7650000
+    },
+    "119": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-12c-chernyj-6128-gb",
+        "title": "Смартфон Xiaomi 12C, Черный, 6/128 GB",
+        "price": 2251000
+    },
+    "120": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-note-13-zelenyj-6128-gb",
+        "title": "Смартфон Xiaomi Note 13, Зеленый, 6/128 GB",
+        "price": 2599000
+    },
+    "121": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-note-13-chernyj-8128-gb",
+        "title": "Смартфон Xiaomi Note 13, Черный, 8/128 GB",
+        "price": 2839000
+    },
+    "122": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-note-13-chernyj-8256-gb",
+        "title": "Смартфон Xiaomi Note 13, Черный, 8/256 GB",
+        "price": 3019000
+    },
+    "123": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-note-13-sinij-8256-gb",
+        "title": "Смартфон Xiaomi Note 13, Синий, 8/256 GB",
+        "price": 3019000
+    },
+    "124": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-note-13-pro-chernyj-8256-gb",
+        "title": "Смартфон Xiaomi Note 13 Pro, Черный, 8/256 GB",
+        "price": 4830000
+    },
+    "125": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-note-13-pro-5g-chernyj-8256-gb",
+        "title": "Смартфон Xiaomi Note 13 Pro + 5G, Черный, 8/256 GB",
+        "price": 6090000
+    },
+    "126": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-note-13-pro-zelenyj-8256-gb",
+        "title": "Смартфон Xiaomi Note 13 Pro, Зеленый, 8/256 GB",
+        "price": 4830000
+    },
+    "127": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-note-13-zelenyj-8256-gb",
+        "title": "Смартфон Xiaomi Note 13, Зеленый, 8/256 GB",
+        "price": 3019000
+    },
+    "128": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a55-lilac-8128-gb",
+        "title": "Смартфон Samsung Galaxy A55, Lilac, 8/128 GB",
+        "price": 4749000
+    },
+    "129": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a55-navy-8128-gb",
+        "title": "Смартфон Samsung Galaxy A55, Navy, 8/128 GB",
+        "price": 4749000
+    },
+    "130": {
+        "link": "https://sello.uz/product/smartfon-zte-nubia-neo-yellow-8256-gb",
+        "title": "Смартфон ZTE Nubia Neo, Yellow, 8/256 GB",
+        "price": 2299000
+    },
+    "131": {
+        "link": "https://sello.uz/product/smartfon-zte-blade-v50-design-black-8256-gb",
+        "title": "Смартфон ZTE Blade V50 Design, Black, 8/256 GB",
+        "price": 1899000
+    },
+    "132": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a35-navy-8128-gb",
+        "title": "Смартфон Samsung Galaxy A35, Navy, 8/128 GB",
+        "price": 4199000
+    },
+    "133": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a35-navy-8256-gb",
+        "title": "Смартфон Samsung Galaxy A35, Navy, 8/256 GB",
+        "price": 4599000
+    },
+    "134": {
+        "link": "https://sello.uz/product/smartfon-zte-blade-v50-design-green-8256-gb",
+        "title": "Смартфон ZTE Blade V50 Design, Green, 8/256 GB",
+        "price": 1899000
+    },
+    "135": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a35-iceblue-8128-gb",
+        "title": "Смартфон Samsung Galaxy A35, Iceblue, 8/128 GB",
+        "price": 4199000
+    },
+    "136": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-a55-iceblue-8128-gb",
+        "title": "Смартфон Samsung Galaxy A55, Iceblue, 8/128 GB",
+        "price": 4749000
+    },
+    "137": {
+        "link": "https://sello.uz/product/smartfon-zte-blade-a54-blue-4128-gb",
+        "title": "Смартфон ZTE Blade A54, Blue, 4/128 GB",
+        "price": 1249000
+    },
+    "138": {
+        "link": "https://sello.uz/product/smartfon-zte-blade-a73-black-4128-gb",
+        "title": "Смартфон ZTE Blade A73, Black, 4/128 GB",
+        "price": 1349000
+    },
+    "139": {
+        "link": "https://sello.uz/product/smartfon-tecno-spark-go-2024-bg6-belyj-364-gb",
+        "title": "Смартфон Tecno Spark go 2024 BG6, Белый, 3/64 GB",
+        "price": 1463000
+    },
+    "140": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s24-5g-seryj-8256-gb",
+        "title": "Смартфон Samsung Galaxy S24 5G, Серый, 8/256 GB",
+        "price": 12220000
+    },
+    "141": {
+        "link": "https://sello.uz/product/smartfon-samsung-galaxy-s24-5g-chernyj-8256-gb",
+        "title": "Смартфон Samsung Galaxy S24 5G, Черный, 8/256 GB",
+        "price": 12220000
+    },
+    "142": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-13-pro-plus-mystic-silver-12512-gb",
+        "title": "Смартфон Xiaomi Redmi 13 Pro Plus, Mystic silver, 12/512 GB",
+        "price": 5600000
+    },
+    "143": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-13c-glacier-white-6128-gb",
+        "title": "Смартфон Xiaomi Redmi 13C, Glacier White, 6/128 GB",
+        "price": 1890000
+    },
+    "144": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-a3-midnight-black-4128-gb",
+        "title": "Смартфон Xiaomi Redmi A3, Midnight black, 4/128 GB",
+        "price": 1599000
+    },
+    "145": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-13c-navy-blue-6128-gb",
+        "title": "Смартфон Xiaomi Redmi 13C, Navy Blue, 6/128 GB",
+        "price": 1890000
+    },
+    "146": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-13c-glacier-white-8256-gb",
+        "title": "Смартфон Xiaomi Redmi 13C, Glacier White, 8/256 GB",
+        "price": 2060000
+    },
+    "147": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-13c-navy-blue-8256-gb",
+        "title": "Смартфон Xiaomi Redmi 13C, Navy Blue, 8/256 GB",
+        "price": 2060000
+    },
+    "148": {
+        "link": "https://sello.uz/product/smartfon-xiaomi-redmi-13c-midnight-black-8256-gb",
+        "title": "Смартфон Xiaomi Redmi 13C, Midnight black, 8/256 GB",
+        "price": 2060000
+    }
+}

@@ -2,25 +2,24 @@ from parsing.parsers import *
 
 categories = {
     'smartphone': {
-        'category': 'katalog',
+        'category': 'telefony-i-smart-casy',
         'subcategory': 'smartfony',
     }
 }
-
 dir_name = str(os.path.dirname(__file__)).split('/')[-1]
 
 
 class Parser(BaseParser):
     def __init__(self, category, subcategory, dirname):
         super().__init__(dirname)
-        self.URL = "https://texnomart.uz"
+        self.URL = 'https://sello.uz'
         self.category = category
         self.subcategory = subcategory
 
     async def get_soup(self, page=None):
-        url = f"{self.URL}/ru/{self.category}/{self.subcategory}/"
+        url = f"{self.URL}/category/elektronika/{self.category}/{self.subcategory}"
 
-        # print(f'\n{url}\n')
+        print(f'\n{url}\n')
 
         if page is not None:
             url += f"?page={page}"
@@ -29,7 +28,7 @@ class Parser(BaseParser):
         }
 
         html, status = await self.async_fetch(url=url, headers=headers)
-        # print(f"\nStatus code: {status}\n")
+        print(f"\nStatus code: {status}\n")
         soup = BeautifulSoup(html, 'html.parser')
         return soup
 
@@ -38,34 +37,30 @@ class Parser(BaseParser):
         page_data: dict = {}
         soup = await self.get_soup(page_number)
 
-        cards = soup.find_all("div", class_="product-item-wrapper")
+        cards = soup.find_all('div', class_='col mb-3')
 
-        for card in cards:
-
-            link = self.URL + card.find("a", class_="product-name")['href']
-            title = card.find("a", class_="product-name").get_text(strip=True)
-            price = get_number_from_text(card.find("div", class_="product-price__current").get_text(strip=True))
-            price_credit = get_number_from_text(card.find("div", class_="installment-price").get_text(strip=True))
+        for index, card in enumerate(cards):
+            link = self.URL + card.find('a', class_="d-block p-1")['href']
+            title = card.find("span", class_="t-truncate-4").get_text(strip=True)
+            price = get_number_from_text(
+                card.select(f"#__next > div.w-100.h-100.mt-2.mt-lg-0.mb-3 > div.container.py-2 > div.d-block.d-md-flex > div:nth-child(2) > div.row.gx-2.gx-lg-3.row-cols-2.row-cols-sm-3.row-cols-md-4.row-cols-lg-5.row-cols-xl-5 > div:nth-child({index + 1}) > div > div.px-2.pb-3.position-relative > div")[0].get_text(strip=True))
 
             data = {
                 'link': link,
                 'title': title,
                 'price': price,
-                'price_credit': price_credit,
             }
 
             i += 1
             page_data[str(i)] = data
-        print(len(page_data))
         return page_data
 
     async def get_total_page(self) -> int:
         soup = await self.get_soup()
-        pagination = soup.select(
-            "#catalog__page > div.catalog-content__products > div:nth-child(2) > div.pagination > div > div.vue-ads-flex-grow.vue-ads-flex.vue-ads-justify-end > button:nth-child(8)")
-        number = pagination[0].get_text(strip=True)
+        pagination = soup.find_all("li", class_="page-item")[-2]
+        number = pagination.get_text(strip=True)
         if number:
-            print("Total pages:", number)
+            print(number)
             return int(number)
         return 0
 

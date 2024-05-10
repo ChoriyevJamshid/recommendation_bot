@@ -9,7 +9,6 @@ import pyppeteer
 from bs4 import BeautifulSoup
 from pprint import pprint
 
-
 ALLOWED_MARKS = ('apple', 'samsung', 'iphone', 'xiaomi', 'huawei', 'blackview',
                  'zte', 'vivo', 'oppo', 'honor', 'techno', 'infinix', 'oppo', 'realme', 'google')
 
@@ -21,6 +20,10 @@ async def recursion_dict_extend_dict(main: dict, second: dict) -> None:
         else:
             if isinstance(main[key], dict):
                 await recursion_dict_extend_dict(main[key], value)
+
+
+async def append_dict(main: dict, second: dict, number) -> None:
+    main[number] = second
 
 
 def get_number_from_text(text: str) -> int:
@@ -62,7 +65,7 @@ class BaseParser:
         page_data = await asyncio.gather(*tasks)
         for data in page_data:
             pprint(data)
-        await asyncio.gather(*[recursion_dict_extend_dict(json_data, data) for data in page_data])
+        await asyncio.gather(*[append_dict(json_data, data, index + 1) for index, data in enumerate(page_data)])
         return json_data
 
     async def get_page_data(self, page_number, i=0) -> dict:
