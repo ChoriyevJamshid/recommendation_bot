@@ -16,7 +16,7 @@ from functions import (
 )
 
 
-from core import ALLOWED_MARKS
+from parsers import ALLOWED_MARKS
 
 
 alif_shop_categories = {
@@ -84,9 +84,9 @@ class ParserAlifShop:
             price = get_price_in_number(price)
             price_credit = get_price_in_number(price_credit)
 
-            items = title.lower().split(" ")
+            items = title.lower().split(" ")[1:]
 
-            if items[1] in ALLOWED_MARKS:
+            if items[0] in ALLOWED_MARKS:
                 data = {
                     'link': link,
                     'title': title,
@@ -97,7 +97,7 @@ class ParserAlifShop:
                 continue
 
             filter_list(items)
-            get_hierarchical_dict_second(page_data, items[1:], data)
+            get_hierarchical_dict_second(page_data, items, data)
 
         return page_data
 

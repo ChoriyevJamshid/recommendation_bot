@@ -21,7 +21,7 @@ from functions import (
     filter_list_second
 )
 
-from core import ALLOWED_MARKS
+from parsers import ALLOWED_MARKS
 
 media_park_categories = {
     'smartphone': {

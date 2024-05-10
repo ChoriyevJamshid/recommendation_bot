@@ -14,7 +14,7 @@ from functions import (
     recursion_dict_extend_dict,
     filter_list, filter_list_second, get_hierarchical_dict_olcha, get_hierarchical_dict
 )
-from core import ALLOWED_MARKS
+from parsers import ALLOWED_MARKS
 
 olcha_categories = {
     'smartphone': {
