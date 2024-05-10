@@ -1,0 +1,2558 @@
+{
+    "honor": {
+        "x9b": {
+            "12/256": {
+                "link": "https://olcha.uz/ru/product/view/honor-x9b-12256-byvsii-v-upotreblenii",
+                "title": "Honor X9b 12/256 Midnight Black (Бывший в употреблении)",
+                "price": 3666000,
+                "price_credit": 429000
+            },
+            "emerald": {
+                "green": {
+                    "8/256": {
+                        "link": "https://olcha.uz/ru/product/view/honor-x9b-emerald-green-8256-gb",
+                        "title": "Honor X9b Emerald Green 8/256 GB",
+                        "price": 3883000,
+                        "price_credit": 454000
+                    }
+                }
+            },
+            "midnight": {
+                "black": {
+                    "8/256": {
+                        "link": "https://olcha.uz/ru/product/view/honor-x9b-midnight-black-8256-gb",
+                        "title": "Honor X9b Midnight Black 8/256 GB",
+                        "price": 3799000,
+                        "price_credit": 444000
+                    },
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/honor-x9b-midnight-black-12256-gb",
+                        "title": "Honor X9b Midnight Black 12/256 GB",
+                        "price": 4498000,
+                        "price_credit": 526000
+                    }
+                }
+            }
+        },
+        "x8b": {
+            "8/256": {
+                "link": "https://olcha.uz/ru/product/view/honor-x8b-8256-gb-midnight-black-byvsii-v-upotreblenii",
+                "title": "Honor X8b 8/256 GB Midnight black (Бывший в употреблении)",
+                "price": 2500000,
+                "price_credit": 292000
+            },
+            "зеленый": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/honor-x8b-zelenyi-8256-gb",
+                    "title": "Honor X8b Зеленый 8/256 GB",
+                    "price": 3563000,
+                    "price_credit": 417000
+                },
+                "8/128": {
+                    "link": "https://olcha.uz/ru/product/view/honor-x8b-zelenyi-8128-gb",
+                    "title": "Honor X8b Зеленый 8/128 GB",
+                    "price": 3330000,
+                    "price_credit": 389000
+                }
+            },
+            "черный": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/honor-x8b-cernyi-8256-gb",
+                    "title": "Honor X8b Черный 8/256 GB",
+                    "price": 3163000,
+                    "price_credit": 370000
+                },
+                "8/128": {
+                    "link": "https://olcha.uz/ru/product/view/honor-x8b-cernyi-8128-gb",
+                    "title": "Honor X8b Черный 8/128 GB",
+                    "price": 2973000,
+                    "price_credit": 348000
+                }
+            },
+            "серебристый": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/honor-x8b-serebristyi-8256-gb",
+                    "title": "Honor X8b Серебристый 8/256 GB",
+                    "price": 3163000,
+                    "price_credit": 370000
+                },
+                "8/128": {
+                    "link": "https://olcha.uz/ru/product/view/honor-x8b-serebristyi-8128-gb",
+                    "title": "Honor X8b Серебристый 8/128 GB",
+                    "price": 2973000,
+                    "price_credit": 348000
+                }
+            }
+        },
+        "x6a": {
+            "4/128": {
+                "link": "https://olcha.uz/ru/product/view/honor-x6a-4128-gb-sky-silver",
+                "title": "Honor X6a 4/128 GB Sky Silver",
+                "price": 2014000,
+                "price_credit": 236000
+            },
+            "black": {
+                "4/128": {
+                    "link": "https://olcha.uz/ru/product/view/honor-x6a-black-4128-gb",
+                    "title": "Honor X6a Black 4/128 GB",
+                    "price": 1929000,
+                    "price_credit": 226000
+                }
+            },
+            "link": "https://olcha.uz/ru/product/view/honor-x6a",
+            "title": "Honor X6a",
+            "price": 1929000,
+            "price_credit": 226000
+        },
+        "x7b": {
+            "deep": {
+                "black": {
+                    "8/128": {
+                        "link": "https://olcha.uz/ru/product/view/honor-x7b-deep-black",
+                        "title": "Honor X7b Deep black 8/128 GB",
+                        "price": 2295000,
+                        "price_credit": 269000
+                    }
+                }
+            },
+            "shimmering": {
+                "silver": {
+                    "8/128": {
+                        "link": "https://olcha.uz/ru/product/view/honor-x7b-shimmering-silver",
+                        "title": "Honor X7b Shimmering silver 8/128 GB",
+                        "price": 2295000,
+                        "price_credit": 269000
+                    }
+                }
+            },
+            "emerald": {
+                "green": {
+                    "8/128": {
+                        "link": "https://olcha.uz/ru/product/view/honor-x7b-emerald-green",
+                        "title": "Honor X7b Emerald Green 8/128 GB",
+                        "price": 2295000,
+                        "price_credit": 269000
+                    }
+                }
+            },
+            "8/128": {
+                "link": "https://olcha.uz/ru/product/view/honor-x7b",
+                "title": "Honor X7b 8/128 GB",
+                "price": 2295000,
+                "price_credit": 269000
+            }
+        },
+        "x5": {
+            "plus": {
+                "4/64": {
+                    "link": "https://olcha.uz/ru/product/view/honor-x5-plus-464-gb-cyan-lake",
+                    "title": "Honor X5 Plus 4/64 GB Cyan Lake",
+                    "price": 1710000,
+                    "price_credit": 200000
+                }
+            },
+            "2/32gb": {
+                "link": "https://olcha.uz/ru/product/view/honor-x5-232gb-sinii",
+                "title": "Honor X5 2/32GB Синий",
+                "price": 1664000,
+                "price_credit": 195000
+            }
+        },
+        "90": {
+            "светло-синий": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/honor-90-svetlo-sinii-8256-gb",
+                    "title": "Honor 90 Светло-синий 8/256 GB",
+                    "price": 6994000,
+                    "price_credit": 817000
+                }
+            },
+            "зеленый": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/honor-90-zelenyi-8256-gb",
+                    "title": "Honor 90 Зеленый 8/256 GB",
+                    "price": 6994000,
+                    "price_credit": 817000
+                }
+            },
+            "черный": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/honor-90-cernyi-8256-gb",
+                    "title": "Honor 90 Черный 8/256 GB",
+                    "price": 6994000,
+                    "price_credit": 817000
+                }
+            },
+            "серебристый": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/honor-90-serebristyi-8256-gb",
+                    "title": "Honor 90 Серебристый 8/256 GB",
+                    "price": 6994000,
+                    "price_credit": 817000
+                }
+            },
+            "lite": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/honor-90-lite-serebryanyi",
+                    "title": "Honor 90 Lite 8/256 GB Серебряный",
+                    "price": 2980000,
+                    "price_credit": 349000
+                }
+            }
+        },
+        "x7a": {
+            "plus": {
+                "6/128gb": {
+                    "link": "https://olcha.uz/ru/product/view/honor-x7a-plus-6128gb-cernyi",
+                    "title": "Honor X7A Plus 6/128GB Черный",
+                    "price": 2252000,
+                    "price_credit": 263000
+                }
+            }
+        },
+        "x6": {
+            "4/64gb": {
+                "link": "https://olcha.uz/ru/product/view/honor-x6",
+                "title": "Honor X6 4/64GB black",
+                "price": 1812500,
+                "price_credit": 212000
+            }
+        },
+        "x8a": {
+            "6/128gb": {
+                "link": "https://olcha.uz/ru/product/view/honor-x8a-6128gb-cyan-lake",
+                "title": "Honor X8a 6/128GB Cyan Lake",
+                "price": 2662000,
+                "price_credit": 311000
+            }
+        },
+        "x9": {
+            "6/128gb": {
+                "link": "https://olcha.uz/ru/product/view/honor-x9-6128gb-ocean-blue",
+                "title": "Honor X9 6/128GB Ocean Blue",
+                "price": 4188000,
+                "price_credit": 490000
+            }
+        },
+        "x8": {
+            "6/128gb": {
+                "link": "https://olcha.uz/ru/product/view/honor-x8-6128gb-chernyy",
+                "title": "Honor X8 6/128GB Черный",
+                "price": 3616000,
+                "price_credit": 423000
+            }
+        },
+        "50": {
+            "lite": {
+                "6/128gb": {
+                    "link": "https://olcha.uz/ru/product/view/smartfon-honor-50-lite-6128gb-deep-blue",
+                    "title": "Смартфон Honor 50 Lite 6/128GB Deep Blue",
+                    "price": 3397000,
+                    "price_credit": 397000
+                }
+            }
+        },
+        "9x": {
+            "4/128gb": {
+                "link": "https://olcha.uz/ru/product/view/honor-9xs-4128gb-midnight-black",
+                "title": "Honor 9X 4/128GB Midnight Black",
+                "price": 4473000,
+                "price_credit": 523000
+            }
+        }
+    },
+    "samsung": {
+        "galaxy": {
+            "a54": {
+                "5g": {
+                    "6/128gb": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a54-5g-6128gb-black-byvsii-v-upotreblenii-awesome-lime",
+                        "title": "Samsung Galaxy A54 5G 6/128GB (Бывший в употреблении) Awesome Lime",
+                        "price": 3079000,
+                        "price_credit": 360000
+                    }
+                }
+            },
+            "s23": {
+                "fe": {
+                    "8/256": {
+                        "link": "https://olcha.uz/ru/product/view/cmartfon-galaxy-s23-fe-8128gb-8256-gb-grafit",
+                        "title": "Cмартфон Galaxy S23 FE 8/256 GB Графит",
+                        "price": 6794000,
+                        "price_credit": 794000
+                    },
+                    "8/128gb": {
+                        "link": "https://olcha.uz/ru/product/view/cmartfon-galaxy-s23-fe-sirenevom",
+                        "title": "Samsung Galaxy S23 FE 8/128GB сиреневом",
+                        "price": 6249000,
+                        "price_credit": 730000
+                    }
+                },
+                "ultra": {
+                    "dual": {
+                        "sim": {
+                            "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s23-ultra-1",
+                            "title": "Samsung Galaxy S23 Ultra Dual SIM",
+                            "price": 11049000,
+                            "price_credit": 1291000
+                        }
+                    }
+                },
+                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s23",
+                "title": "Samsung Galaxy S23",
+                "price": 9451000,
+                "price_credit": 1103000
+            },
+            "a35": {
+                "8/128": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a35-6128-gb-awesome-lemon-2",
+                    "title": "Samsung Galaxy A35 8/128 GB Awesome Lemon",
+                    "price": 4296000,
+                    "price_credit": 502000
+                }
+            },
+            "a24": {
+                "6/128gb": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a24-6128gb-black-byvsii-v-upotreblenii",
+                    "title": "Samsung Galaxy A24 6/128GB Black (Бывший в употреблении)",
+                    "price": 1925000,
+                    "price_credit": 225000
+                }
+            },
+            "a55": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-a55-8256-gb-awesome-navy",
+                    "title": "Samsung Galaxy A55 8/256 GB Awesome Navy",
+                    "price": 4999000,
+                    "price_credit": 584000
+                },
+                "8/128": {
+                    "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-a55-8128-gb-awesome-navy",
+                    "title": "Samsung Galaxy A55 8/128 GB Awesome Navy",
+                    "price": 4448000,
+                    "price_credit": 520000
+                },
+                "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-a55",
+                "title": "Samsung Galaxy A55",
+                "price": 4448000,
+                "price_credit": 520000
+            },
+            "a14": {
+                "4/64": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a14-4128-gb-byvsii-v-upotreblenii-cernyi-1",
+                    "title": "Samsung Galaxy A14 4/64 GB (Бывший в употреблении) Silver",
+                    "price": 1604000,
+                    "price_credit": 188000
+                },
+                "4/128": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a14-4128-gb-byvsii-v-upotreblenii-cernyi",
+                    "title": "Samsung Galaxy A14 4/128 GB (Бывший в употреблении) Черный",
+                    "price": 1758000,
+                    "price_credit": 206000
+                },
+                "(бывший": {
+                    "в": {
+                        "употреблении)": {
+                            "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a14-464-gb-zelenyi-byvsii-v-upotreblenii",
+                            "title": "Samsung Galaxy A14 (Бывший в употреблении)",
+                            "price": 1604000,
+                            "price_credit": 188000
+                        }
+                    }
+                }
+            },
+            "a05s": {
+                "4/128": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a05s-4128-black-byvsii-v-upotreblenii",
+                    "title": "Samsung Galaxy A05s 4/128 Black (Бывший в употреблении)",
+                    "price": 1700000,
+                    "price_credit": 199000
+                }
+            },
+            "s24+": {
+                "фиолетовый": {
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-fioletovyi-12256-gb",
+                        "title": "Samsung Galaxy S24+ Фиолетовый 12/256 GB",
+                        "price": 11885000,
+                        "price_credit": 1388000
+                    }
+                },
+                "серый": {
+                    "12/512": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-seryi-12512-gb",
+                        "title": "Samsung Galaxy S24+ Серый 12/512 GB",
+                        "price": 12946000,
+                        "price_credit": 1512000
+                    },
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-seryi-12256-gb",
+                        "title": "Samsung Galaxy S24+ Серый 12/256 GB",
+                        "price": 11885000,
+                        "price_credit": 1388000
+                    }
+                },
+                "желтый": {
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-zeltyi-12256-gb",
+                        "title": "Samsung Galaxy S24+ Желтый 12/256 GB",
+                        "price": 11885000,
+                        "price_credit": 1388000
+                    }
+                }
+            },
+            "s24": {
+                "фиолетовый": {
+                    "8/256": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-fioletovyi-8256-gb",
+                        "title": "Samsung Galaxy S24 Фиолетовый 8/256 GB",
+                        "price": 10580000,
+                        "price_credit": 1236000
+                    }
+                },
+                "серый": {
+                    "8/256": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-seryi-8256-gb",
+                        "title": "Samsung Galaxy S24 Серый 8/256 GB",
+                        "price": 10456000,
+                        "price_credit": 1222000
+                    }
+                },
+                "черный": {
+                    "8/128": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-cernyi-8128-gb",
+                        "title": "Samsung Galaxy S24 Черный 8/128 GB",
+                        "price": 9271000,
+                        "price_credit": 1083000
+                    }
+                },
+                "желтый": {
+                    "8/256": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-zeltyi-8256-gb",
+                        "title": "Samsung Galaxy S24 Желтый 8/256 GB",
+                        "price": 10045000,
+                        "price_credit": 1174000
+                    },
+                    "8/128": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-zeltyi-8128-gb",
+                        "title": "Samsung Galaxy S24 Желтый 8/128 GB",
+                        "price": 9479000,
+                        "price_credit": 1107000
+                    }
+                },
+                "ultra": {
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-ultra-12256-gb-titanium-black",
+                        "title": "Samsung Galaxy S24 Ultra 12/256 GB Titanium Black",
+                        "price": 14298000,
+                        "price_credit": 1670000
+                    },
+                    "12/512": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s24-ultra-12512-gb-titanium-yellow",
+                        "title": "Samsung Galaxy S24 Ultra 12/512 GB Titanium Yellow",
+                        "price": 16129000,
+                        "price_credit": 1884000
+                    }
+                }
+            },
+            "a25": {
+                "6/128": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a25-6128-gb-tyomnyi-sinii",
+                    "title": "Samsung Galaxy A25 6/128 GB Тёмный синий",
+                    "price": 2888000,
+                    "price_credit": 338000
+                },
+                "светло-синий": {
+                    "6/128": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a25-svetlo-sinii-6128-gb",
+                        "title": "Samsung Galaxy A25 Светло-синий 6/128 GB",
+                        "price": 2888000,
+                        "price_credit": 338000
+                    }
+                },
+                "желтый": {
+                    "6/128": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a25-zeltyi-6128-gb",
+                        "title": "Samsung Galaxy A25 Желтый 6/128 GB",
+                        "price": 2888000,
+                        "price_credit": 338000
+                    }
+                }
+            },
+            "a15": {
+                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a15",
+                "title": "Samsung Galaxy A15",
+                "price": 1928000,
+                "price_credit": 226000
+            },
+            "a05": {
+                "4/128": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a05-black",
+                    "title": "Samsung Galaxy A05 4/128 GB Black",
+                    "price": 1593000,
+                    "price_credit": 187000
+                }
+            },
+            "z": {
+                "flip": {
+                    "5": {
+                        "кремовый": {
+                            "8/512": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip-5-kremovyi-8512-gb",
+                                "title": "Samsung Galaxy Z Flip 5 Кремовый 8/512 GB",
+                                "price": 15568000,
+                                "price_credit": 1819000
+                            }
+                        },
+                        "8/256": {
+                            "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip-5-8256-gb-kremovyi",
+                            "title": "Samsung Galaxy Z Flip 5 8/256 GB Кремовый",
+                            "price": 10216000,
+                            "price_credit": 1194000
+                        },
+                        "фиолетовый": {
+                            "8/512": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip-5-fioletovyi-8512-gb",
+                                "title": "Samsung Galaxy Z Flip 5 Фиолетовый 8/512 GB",
+                                "price": 15568000,
+                                "price_credit": 1819000
+                            },
+                            "8/256": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip-5-fioletovyi-8256-gb",
+                                "title": "Samsung Galaxy Z Flip 5 Фиолетовый 8/256 GB",
+                                "price": 10216000,
+                                "price_credit": 1194000
+                            }
+                        },
+                        "зеленый": {
+                            "8/512": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip-5-zelenyi-8512-gb",
+                                "title": "Samsung Galaxy Z Flip 5 Зеленый 8/512 GB",
+                                "price": 15568000,
+                                "price_credit": 1819000
+                            },
+                            "8/256": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip-5-zelenyi-8256-gb",
+                                "title": "Samsung Galaxy Z Flip 5 Зеленый 8/256 GB",
+                                "price": 10216000,
+                                "price_credit": 1194000
+                            }
+                        },
+                        "черный": {
+                            "8/512": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip-5-cernyi-8512-gb",
+                                "title": "Samsung Galaxy Z Flip 5 Черный 8/512 GB",
+                                "price": 15568000,
+                                "price_credit": 1819000
+                            },
+                            "8/256": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip-5-cernyi-8256-gb",
+                                "title": "Samsung Galaxy Z Flip 5 Черный 8/256 GB",
+                                "price": 8999000,
+                                "price_credit": 1051000
+                            }
+                        }
+                    }
+                },
+                "fold": {
+                    "5": {
+                        "12/512": {
+                            "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-fold-5-12512-gb-kremovyi",
+                            "title": "Samsung Galaxy Z Fold 5 12/512 GB Кремовый",
+                            "price": 20984000,
+                            "price_credit": 2451000
+                        },
+                        "12/256": {
+                            "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-fold-5-12256-gb-kremovyi",
+                            "title": "Samsung Galaxy Z Fold 5 12/256 GB Кремовый",
+                            "price": 20299000,
+                            "price_credit": 2371000
+                        },
+                        "черный": {
+                            "12/512": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-fold-5-cernyi-12512-gb",
+                                "title": "Samsung Galaxy Z Fold 5 Черный 12/512 GB",
+                                "price": 20984000,
+                                "price_credit": 2451000
+                            },
+                            "12/256": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-fold-5-cernyi-12256-gb",
+                                "title": "Samsung Galaxy Z Fold 5 Черный 12/256 GB",
+                                "price": 20299000,
+                                "price_credit": 2371000
+                            }
+                        },
+                        "синий": {
+                            "12/512": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-fold-5-sinii-12512-gb",
+                                "title": "Samsung Galaxy Z Fold 5 Синий 12/512 GB",
+                                "price": 20984000,
+                                "price_credit": 2451000
+                            },
+                            "12/256": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-fold-5-sinii-12256-gb",
+                                "title": "Samsung Galaxy Z Fold 5 Синий 12/256 GB",
+                                "price": 20299000,
+                                "price_credit": 2371000
+                            }
+                        }
+                    },
+                    "2": {
+                        "12/256gb": {
+                            "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-fold-2-12256gb-bronze",
+                            "title": "Samsung Galaxy Z Fold 2 12/256GB Bronze",
+                            "price": 14026000,
+                            "price_credit": 1639000
+                        }
+                    }
+                },
+                "flip4": {
+                    "8/512": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip4-12512-gb-grafitovyy",
+                        "title": "Samsung Galaxy Z Flip4 8/512 GB Графитовый",
+                        "price": 10558000,
+                        "price_credit": 1233000
+                    },
+                    "8/128": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip4-lavandovyy-8128-gb",
+                        "title": "Samsung Galaxy Z Flip4 8/128 GB Лавандовый",
+                        "price": 8117000,
+                        "price_credit": 948000
+                    },
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip4",
+                    "title": "Samsung Galaxy Z Flip4",
+                    "price": 8117000,
+                    "price_credit": 948000
+                },
+                "fold4": {
+                    "12/512": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-fold4-12512-gb-sero-zelenyy",
+                        "title": "Samsung Galaxy Z Fold4 12/512 GB Серо-зеленый",
+                        "price": 19777000,
+                        "price_credit": 2310000
+                    },
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-fold4-12256-gb-bezhevyy",
+                        "title": "Samsung Galaxy Z Fold4 12/256 GB Бежевый",
+                        "price": 16821000,
+                        "price_credit": 1965000
+                    }
+                },
+                "flip3": {
+                    "5g": {
+                        "8/128gb": {
+                            "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-flip3-5g-8128gb-green",
+                            "title": "Samsung Galaxy Z Flip3 5G 8/128GB Green",
+                            "price": 7688000,
+                            "price_credit": 898000
+                        }
+                    }
+                },
+                "fold3": {
+                    "5g": {
+                        "12/256гб": {
+                            "link": "https://olcha.uz/ru/product/view/samsung-galaxy-z-fold3-5g-12256gb-phantom-green",
+                            "title": "Samsung Galaxy Z Fold3 5G 12/256ГБ Phantom Green",
+                            "price": 15433000,
+                            "price_credit": 1803000
+                        }
+                    }
+                }
+            },
+            "m04": {
+                "(india)": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-m04-india",
+                    "title": "Samsung Galaxy M04 (India)",
+                    "price": 1800000,
+                    "price_credit": 36000
+                }
+            },
+            "f04": {
+                "(india)": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-f04-india",
+                    "title": "Samsung Galaxy F04 (India)",
+                    "price": 1800000,
+                    "price_credit": 36000
+                }
+            },
+            "s23+": {
+                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-s23-1",
+                "title": "Samsung Galaxy S23+",
+                "price": 11238000,
+                "price_credit": 1313000
+            },
+            "a04": {
+                "sm-a045": {
+                    "black": {
+                        "3/32": {
+                            "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a04-sm-a045-black-332-gb",
+                            "title": "Samsung Galaxy A04 SM-A045 Black 3/32 GB",
+                            "price": 1519000,
+                            "price_credit": 178000
+                        }
+                    }
+                },
+                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a04",
+                "title": "Samsung Galaxy A04",
+                "price": 1636000,
+                "price_credit": 192000
+            },
+            "a04e": {
+                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a04e",
+                "title": "Samsung Galaxy A04e",
+                "price": 1419000,
+                "price_credit": 166000
+            },
+            "m13": {
+                "(india)": {
+                    "6/128": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-m13-india-6128-gb-stardust-brown",
+                        "title": "Samsung Galaxy M13 (India) 6/128 GB Stardust Brown",
+                        "price": 2479000,
+                        "price_credit": 290000
+                    },
+                    "4/64": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-m13-india-464-gb-stardust-brown",
+                        "title": "Samsung Galaxy M13 (India) 4/64 GB Stardust Brown",
+                        "price": 2221000,
+                        "price_credit": 260000
+                    },
+                    "midnight": {
+                        "blue": {
+                            "4/64": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-m13-india-midnight-blue-464-gb",
+                                "title": "Samsung Galaxy M13 (India) Midnight Blue 4/64 GB",
+                                "price": 2221000,
+                                "price_credit": 260000
+                            }
+                        }
+                    },
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-m13-india",
+                    "title": "Samsung Galaxy M13 (India)",
+                    "price": 2221000,
+                    "price_credit": 260000
+                }
+            },
+            "a04s": {
+                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a04s",
+                "title": "Samsung Galaxy A04s",
+                "price": 2060000,
+                "price_credit": 241000
+            },
+            "f13": {
+                "4/128": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-f13-4128-gb-nightsky-green",
+                    "title": "Samsung Galaxy F13 4/128 GB Nightsky Green",
+                    "price": 2169000,
+                    "price_credit": 254000
+                },
+                "4/64": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-f13-464-gb-sunrise-copper",
+                    "title": "Samsung Galaxy F13 4/64 GB Sunrise Copper",
+                    "price": 2285000,
+                    "price_credit": 267000
+                }
+            },
+            "m33": {
+                "5g": {
+                    "(india)": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-m336-5g-6128gb",
+                        "title": "Samsung Galaxy M33 5G (India)",
+                        "price": 2999000,
+                        "price_credit": 59800
+                    }
+                }
+            },
+            "a23": {
+                "4/64gb": {
+                    "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a23-464gb-goluboy",
+                    "title": "Samsung Galaxy A23 4/64GB Голубой",
+                    "price": 2843000,
+                    "price_credit": 333000
+                }
+            },
+            "note": {
+                "20": {
+                    "ultra": {
+                        "5g": {
+                            "12/256gb": {
+                                "link": "https://olcha.uz/ru/product/view/samsung-galaxy-note-20-ultra-5g-12256gb-bronze",
+                                "title": "Samsung Galaxy Note 20 Ultra 5G 12/256GB Bronze",
+                                "price": 13323000,
+                                "price_credit": 1556000
+                            }
+                        }
+                    }
+                }
+            },
+            "m52": {
+                "5g": {
+                    "6/128": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-m52-5g-6128-gb",
+                        "title": "Samsung Galaxy M52 5G 6/128 GB",
+                        "price": 5010000,
+                        "price_credit": 586000
+                    }
+                }
+            },
+            "a03": {
+                "черный": {
+                    "3/32": {
+                        "link": "https://olcha.uz/ru/product/view/samsung-galaxy-a03-chernyy-332-gb",
+                        "title": "Samsung Galaxy A03 Черный 3/32 GB",
+                        "price": 1966000,
+                        "price_credit": 230000
+                    }
+                }
+            },
+            "s22": {
+                "ultra": {
+                    "5g": {
+                        "8/256gb": {
+                            "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-ultra-5g-256gb-8-gb-2-nano-sim-esim-chernyy",
+                            "title": "Смартфон Samsung Galaxy S22 Ultra 5G 8/256GB 2 (nano SIM) + eSIM Черный",
+                            "price": 11461000,
+                            "price_credit": 1339000
+                        },
+                        "512": {
+                            "12": {
+                                "2": {
+                                    "(nano": {
+                                        "sim)": {
+                                            "esim": {
+                                                "зеленый": {
+                                                    "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-ultra-5g-512-gb-12-gb-2-nano-sim-esim-zelenyy",
+                                                    "title": "Смартфон Samsung Galaxy S22 Ultra 5G 512 GB 12 GB 2 (nano SIM) + eSIM Зеленый",
+                                                    "price": 15130000,
+                                                    "price_credit": 1767000
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "8/128gb": {
+                            "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-ultra-5g-128gb-8-gb-2-nano-sim-esim-bordovyy",
+                            "title": "Смартфон Samsung Galaxy S22 Ultra 5G 8/128GB 2 (nano SIM) + eSIM Бордовый",
+                            "price": 12765000,
+                            "price_credit": 1491000
+                        },
+                        "1": {
+                            "(nano": {
+                                "sim)": {
+                                    "512": {
+                                        "12": {
+                                            "зеленый": {
+                                                "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-ultra-5g-1-nano-sim-512-gb-12-gb-zelenyy",
+                                                "title": "Смартфон Samsung Galaxy S22 Ultra 5G 1 (Nano Sim) 512 GB 12 GB Зеленый",
+                                                "price": 15433000,
+                                                "price_credit": 1803000
+                                            },
+                                            "черный": {
+                                                "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-ultra-5g-1-nano-sim-512-gb-12-gb-chernyy",
+                                                "title": "Смартфон Samsung Galaxy S22 Ultra 5G 1 (Nano Sim) 512 GB 12 GB Черный",
+                                                "price": 15433000,
+                                                "price_credit": 1803000
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-ultra-5g",
+                        "title": "Смартфон Samsung Galaxy S22 Ultra 5G",
+                        "price": 11461000,
+                        "price_credit": 1339000
+                    }
+                },
+                "5g": {
+                    "8/256gb": {
+                        "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-5g-256gb-8-gb-2-nano-simesim-zelenyy",
+                        "title": "Смартфон Samsung Galaxy S22 5G 8/256GB 2 nano SIM+eSIM Зеленый",
+                        "price": 10794000,
+                        "price_credit": 1261000
+                    },
+                    "128gb": {
+                        "8": {
+                            "2": {
+                                "nano": {
+                                    "sim+esim": {
+                                        "темно-серый": {
+                                            "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-5g-128gb-8-gb-2-nano-simesim-temno-seryy",
+                                            "title": "Смартфон Samsung Galaxy S22 5G 128GB 8 GB 2 nano SIM+eSIM Темно-серый",
+                                            "price": 8169000,
+                                            "price_credit": 955000
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "8/128gb": {
+                        "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-5g-128gb-8-gb-2-nano-simesim-belyy",
+                        "title": "Смартфон Samsung Galaxy S22 5G 8/128GB 2 nano SIM+eSIM Белый",
+                        "price": 9563000,
+                        "price_credit": 1117000
+                    }
+                }
+            },
+            "s22+": {
+                "5g": {
+                    "8/256gb": {
+                        "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-5g-256gb-8-gb-2-nano-sim-esim-chernyy",
+                        "title": "Смартфон Samsung Galaxy S22+ 5G 8/256GB 2 (nano SIM) + eSIM Черный",
+                        "price": 12373000,
+                        "price_credit": 1445000
+                    },
+                    "8/128gb": {
+                        "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s22-5g-128gb-8-gb-2-nano-sim-esim-zelenyy",
+                        "title": "Смартфон Samsung Galaxy S22+ 5G 8/128GB 2 (nano SIM) + eSIM Зеленый",
+                        "price": 10788000,
+                        "price_credit": 1260000
+                    }
+                }
+            },
+            "s21": {
+                "fe": {
+                    "5g": {
+                        "256gb": {
+                            "8": {
+                                "олива": {
+                                    "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s21-fe-5g-256gb-8-gb-oliva",
+                                    "title": "Смартфон Samsung Galaxy S21 FE 5G 256GB 8 GB Олива",
+                                    "price": 6606000,
+                                    "price_credit": 772000
+                                },
+                                "черный": {
+                                    "link": "https://olcha.uz/ru/product/view/smartfon-samsung-galaxy-s21-fe-5g-256gb-8-gb-chernyy",
+                                    "title": "Смартфон Samsung Galaxy S21 FE 5G 256GB 8 GB Черный",
+                                    "price": 6598000,
+                                    "price_credit": 771000
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "xiaomi": {
+        "redmi": {
+            "note": {
+                "13": {
+                    "8/256": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-8256-gb-ocean-sunset",
+                        "title": "Xiaomi Redmi Note 13 8/256 GB Ocean Sunset",
+                        "price": 2525000,
+                        "price_credit": 295000
+                    },
+                    "8/128": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-8128-gb-ocean-sunset",
+                        "title": "Xiaomi Redmi Note 13 8/128 GB Ocean Sunset",
+                        "price": 2545000,
+                        "price_credit": 298000
+                    },
+                    "6/128": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-6128-gb-ocean-sunset",
+                        "title": "Xiaomi Redmi Note 13 6/128 GB Ocean Sunset",
+                        "price": 2287000,
+                        "price_credit": 268000
+                    },
+                    "ice": {
+                        "blue": {
+                            "8/256": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-ice-blue-8256-gb",
+                                "title": "Xiaomi Redmi Note 13 Ice Blue 8/256 GB",
+                                "price": 2525000,
+                                "price_credit": 295000
+                            },
+                            "8/128": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-ice-blue-8128-gb",
+                                "title": "Xiaomi Redmi Note 13 Ice Blue 8/128 GB",
+                                "price": 2545000,
+                                "price_credit": 298000
+                            },
+                            "6/128": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-ice-blue-6128-gb",
+                                "title": "Xiaomi Redmi Note 13 Ice Blue 6/128 GB",
+                                "price": 2287000,
+                                "price_credit": 268000
+                            }
+                        }
+                    },
+                    "midnight": {
+                        "black": {
+                            "8/256": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-midnight-black-8256-gb",
+                                "title": "Xiaomi Redmi Note 13 Midnight Black 8/256 GB",
+                                "price": 2600000,
+                                "price_credit": 304000
+                            },
+                            "8/128": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-midnight-black-8128-gb",
+                                "title": "Xiaomi Redmi Note 13 Midnight Black 8/128 GB",
+                                "price": 2545000,
+                                "price_credit": 298000
+                            },
+                            "6/128": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-midnight-black-6128-gb",
+                                "title": "Xiaomi Redmi Note 13 Midnight Black 6/128 GB",
+                                "price": 2287000,
+                                "price_credit": 268000
+                            }
+                        }
+                    },
+                    "8/128gb": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-8128gb-midnight-black-byvsii-v-upotreblenii",
+                        "title": "Xiaomi Redmi Note 13 8/128GB Midnight Black (Бывший в употреблении)",
+                        "price": 2130000,
+                        "price_credit": 249000
+                    },
+                    "pro+": {
+                        "5g": {
+                            "8/256": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-pro-5g-8256-gb-aurora-purple",
+                                "title": "Xiaomi Redmi Note 13 Pro+ 5G 8/256 GB Aurora purple",
+                                "price": 4999000,
+                                "price_credit": 584000
+                            },
+                            "white": {
+                                "12/512": {
+                                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-pro-5g-white-12512-gb",
+                                    "title": "Xiaomi Redmi Note 13 Pro+ 5G White 12/512 GB",
+                                    "price": 5779000,
+                                    "price_credit": 675000
+                                },
+                                "8/256": {
+                                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-pro-5g-white-8256-gb",
+                                    "title": "Xiaomi Redmi Note 13 Pro+ 5G White 8/256 GB",
+                                    "price": 4895000,
+                                    "price_credit": 572000
+                                }
+                            },
+                            "black": {
+                                "12/512": {
+                                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-pro-5g-black-12512-gb",
+                                    "title": "Xiaomi Redmi Note 13 Pro+ 5G Black 12/512 GB",
+                                    "price": 5775000,
+                                    "price_credit": 675000
+                                },
+                                "8/256": {
+                                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-pro-5g-black-8256-gb",
+                                    "title": "Xiaomi Redmi Note 13 Pro+ 5G Black 8/256 GB",
+                                    "price": 4895000,
+                                    "price_credit": 572000
+                                }
+                            }
+                        }
+                    },
+                    "black": {
+                        "6/128": {
+                            "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-black-6128-gb",
+                            "title": "Xiaomi Redmi Note 13 Black 6/128 GB",
+                            "price": 2602000,
+                            "price_credit": 304000
+                        },
+                        "8/128": {
+                            "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-black-8128-gb",
+                            "title": "Xiaomi Redmi Note 13 Black 8/128 GB",
+                            "price": 2540000,
+                            "price_credit": 297000
+                        }
+                    },
+                    "blue": {
+                        "": {
+                            "": {
+                                "": {
+                                    "6/128": {
+                                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13-blue-6128-gb",
+                                        "title": "Xiaomi Redmi Note 13 Blue    6/128 GB",
+                                        "price": 2602000,
+                                        "price_credit": 304000
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "11": {
+                    "pro": {
+                        "(бывший": {
+                            "в": {
+                                "употреблении)": {
+                                    "6/128": {
+                                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-11-pro-byvsii-v-upotreblenii-6128-gb",
+                                        "title": "Xiaomi Redmi Note 11 Pro (Бывший в употреблении) 6/128 GB",
+                                        "price": 1925000,
+                                        "price_credit": 225000
+                                    },
+                                    "8/128": {
+                                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-11-pro-byvsii-v-upotreblenii-8128-gb",
+                                        "title": "Xiaomi Redmi Note 11 Pro (Бывший в употреблении) 8/128 GB",
+                                        "price": 1989000,
+                                        "price_credit": 233000
+                                    },
+                                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-11-pro-664gb-polar-white",
+                                    "title": "Xiaomi Redmi Note 11 Pro (Бывший в употреблении)",
+                                    "price": 1925000,
+                                    "price_credit": 225000
+                                }
+                            }
+                        },
+                        "6/128": {
+                            "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-11-pro-6128-gb-star-blue-byvsii-v-upotreblenii",
+                            "title": "Xiaomi Redmi Note 11 Pro 6/128 GB Star Blue (Бывший в употреблении)",
+                            "price": 1873000,
+                            "price_credit": 219000
+                        }
+                    }
+                },
+                "12s": {
+                    "8/256gb": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-12s-8256gb-white",
+                        "title": "Xiaomi Redmi Note 12S 8/256GB Blue",
+                        "price": 2779000,
+                        "price_credit": 325000
+                    }
+                },
+                "11e": {
+                    "pro": {
+                        "(": {
+                            "asia": {
+                                "version": {
+                                    ")": {
+                                        "серый": {
+                                            "8/128": {
+                                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-11e-pro-asia-version-seryi-8128-gb",
+                                                "title": "Xiaomi Redmi Note 11E Pro ( Asia Version ) Серый 8/128 GB",
+                                                "price": 3308000,
+                                                "price_credit": 387000
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "11s": {
+                    "link": "https://olcha.uz/ru/product/view/smartfon-xiaomi-redmi-note-11s",
+                    "title": "Смартфон Xiaomi Redmi Note 11S",
+                    "price": 3191000,
+                    "price_credit": 373000
+                }
+            },
+            "a3": {
+                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-a3",
+                "title": "Xiaomi Redmi A3",
+                "price": 1302000,
+                "price_credit": 153000
+            },
+            "12": {
+                "5g": {
+                    "4/128": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-12-4128-gb-jade-black-byvsii-v-upotreblenii",
+                        "title": "Xiaomi Redmi 12 5G 4/128 GB Jade black India (Бывший в употреблении)",
+                        "price": 1745000,
+                        "price_credit": 204000
+                    }
+                },
+                "4/128": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-12-4128-gb-sky-blue-byvsii-v-upotreblenii",
+                    "title": "Xiaomi Redmi 12 4/128 GB Black (Бывший в употреблении)",
+                    "price": 1668000,
+                    "price_credit": 195000
+                },
+                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-12-1",
+                "title": "Xiaomi Redmi 12",
+                "price": 1988000,
+                "price_credit": 221000
+            },
+            "notе": {
+                "13": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-note-13",
+                    "title": "Xiaomi Redmi Notе 13",
+                    "price": 2540000,
+                    "price_credit": 297000
+                }
+            },
+            "13c": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-13c-8256-gb-clover-green",
+                    "title": "Xiaomi Redmi 13C 8/256 GB Clover Green",
+                    "price": 1944000,
+                    "price_credit": 228000
+                },
+                "6/128": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-13c-6128-gb-clover-green",
+                    "title": "Xiaomi Redmi 13C 6/128 GB Clover Green",
+                    "price": 1829000,
+                    "price_credit": 214000
+                },
+                "4/128": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-13c-4128-gb-navy-blue",
+                    "title": "Xiaomi Redmi 13C 4/128 GB Navy blue",
+                    "price": 1598000,
+                    "price_credit": 187000
+                },
+                "glacier": {
+                    "white": {
+                        "8/256": {
+                            "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-13c-glacier-white-8256-gb",
+                            "title": "Xiaomi Redmi 13C Glacier White 8/256 GB",
+                            "price": 1944000,
+                            "price_credit": 228000
+                        },
+                        "6/128": {
+                            "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-13c-glacier-white-6128-gb",
+                            "title": "Xiaomi Redmi 13C Glacier White 6/128 GB",
+                            "price": 1829000,
+                            "price_credit": 214000
+                        },
+                        "4/128": {
+                            "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-13c-glacier-white-4128-gb",
+                            "title": "Xiaomi Redmi 13C Glacier White 4/128 GB",
+                            "price": 1598000,
+                            "price_credit": 187000
+                        }
+                    }
+                },
+                "midnight": {
+                    "black": {
+                        "8/256": {
+                            "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-13c-midnight-black-8256-gb",
+                            "title": "Xiaomi Redmi 13C Midnight Black 8/256 GB",
+                            "price": 1944000,
+                            "price_credit": 228000
+                        },
+                        "6/128": {
+                            "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-13c-midnight-black-6128-gb",
+                            "title": "Xiaomi Redmi 13C Midnight Black 6/128 GB",
+                            "price": 1979000,
+                            "price_credit": 232000
+                        },
+                        "4/128": {
+                            "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-13c-midnight-black-4128-gb",
+                            "title": "Xiaomi Redmi 13C Midnight Black 4/128 GB",
+                            "price": 1598000,
+                            "price_credit": 187000
+                        }
+                    }
+                }
+            },
+            "k60": {
+                "pro": {
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-k60-pro-12256-gb-5g-black",
+                        "title": "Xiaomi Redmi K60 PRO 12/256 GB 5G Black",
+                        "price": 9350000,
+                        "price_credit": 1092000
+                    }
+                }
+            },
+            "10a": {
+                "china": {
+                    "4/64gb": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10a-china-seryi",
+                        "title": "Xiaomi Redmi 10A China 4/64GB Серый",
+                        "price": 1898000,
+                        "price_credit": 222000
+                    }
+                },
+                "3/64": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10a-364-gb-slate-grey",
+                    "title": "Xiaomi Redmi 10A 3/64 GB Chrome Silver",
+                    "price": 1913000,
+                    "price_credit": 224000
+                },
+                "2/32": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10a-232-gb-slate-grey",
+                    "title": "Xiaomi Redmi 10A 2/32 GB Chrome Silver",
+                    "price": 1755000,
+                    "price_credit": 205000
+                }
+            },
+            "12c": {
+                "(global)": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-12c-global",
+                    "title": "Xiaomi Redmi 12C (Global)",
+                    "price": 1619000,
+                    "price_credit": 190000
+                }
+            },
+            "10": {
+                "2022": {
+                    "sea": {
+                        "blue": {
+                            "4/64": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10-2022-sea-blue-464-gb",
+                                "title": "Xiaomi Redmi 10 2022 Sea Blue 4/64 GB",
+                                "price": 2104000,
+                                "price_credit": 246000
+                            }
+                        }
+                    },
+                    "6/128": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10-2022-6128-gb-blue-carbon-gray",
+                        "title": "Xiaomi Redmi 10 2022 6/128 GB Carbon Gray",
+                        "price": 2916000,
+                        "price_credit": 341000
+                    },
+                    "pebble": {
+                        "white": {
+                            "4/64": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10-2022-pebble-white-464-gb",
+                                "title": "Xiaomi Redmi 10 2022 Pebble White 4/64 GB",
+                                "price": 2104000,
+                                "price_credit": 246000
+                            }
+                        }
+                    },
+                    "carbon": {
+                        "gray": {
+                            "4/128": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10-2022-carbon-gray-4128-gb",
+                                "title": "Xiaomi Redmi 10 2022 Carbon Gray 4/128 GB",
+                                "price": 2412000,
+                                "price_credit": 282000
+                            },
+                            "4/64": {
+                                "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10-2022-carbon-gray-464-gb",
+                                "title": "Xiaomi Redmi 10 2022 Carbon Gray 4/64 GB",
+                                "price": 1980000,
+                                "price_credit": 232000
+                            }
+                        }
+                    }
+                },
+                "6/128gb": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10-6128gb-carbon-gray",
+                    "title": "Xiaomi Redmi 10 6/128GB Carbon Gray",
+                    "price": 2691000,
+                    "price_credit": 315000
+                },
+                "4/64гб": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10-464gb-sea-blue",
+                    "title": "Xiaomi Redmi 10 4/64ГБ Sea Blue",
+                    "price": 1980000,
+                    "price_credit": 232000
+                }
+            },
+            "k50": {
+                "gaming": {
+                    "12/256gb": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-k50-gaming-12256gb-chernyy",
+                        "title": "Xiaomi Redmi K50 Gaming 12/256GB",
+                        "price": 7483000,
+                        "price_credit": 877000
+                    }
+                },
+                "12/256gb": {
+                    "link": "https://olcha.uz/ru/product/view/smartfon-xiaomi-redmi-k50",
+                    "title": "Xiaomi Redmi K50 12/256GB Черный",
+                    "price": 10542000,
+                    "price_credit": 1232000
+                }
+            },
+            "10c": {
+                "ocean": {
+                    "blue": {
+                        "3/64": {
+                            "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10c-ocean-blue-364-gb",
+                            "title": "Xiaomi Redmi 10C Ocean Blue 3/64 GB",
+                            "price": 1917000,
+                            "price_credit": 224000
+                        }
+                    }
+                },
+                "4/64": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10c-464-gb-mint-green",
+                    "title": "Xiaomi Redmi 10C 4/64 GB Mint Green",
+                    "price": 1913000,
+                    "price_credit": 224000
+                },
+                "4/128": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-redmi-10c-4128-gb-mint-green",
+                    "title": "Xiaomi Redmi 10C 4/128 GB Mint Green",
+                    "price": 2332000,
+                    "price_credit": 273000
+                }
+            }
+        },
+        "14": {
+            "black": {
+                "12/512": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-14-black-12512-gb",
+                    "title": "Xiaomi 14 Black 12/512 GB",
+                    "price": 11036000,
+                    "price_credit": 1289000
+                },
+                "12/256": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-14-black-12256-gb",
+                    "title": "Xiaomi 14 Black 12/256 GB",
+                    "price": 10753000,
+                    "price_credit": 1256000
+                }
+            },
+            "white": {
+                "12/256": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-14-white-12256-gb",
+                    "title": "Xiaomi 14 White 12/256 GB",
+                    "price": 10753000,
+                    "price_credit": 1256000
+                }
+            },
+            "green": {
+                "12/256": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-14-green-12256-gb",
+                    "title": "Xiaomi 14 Green 12/256 GB",
+                    "price": 10753000,
+                    "price_credit": 1256000
+                }
+            }
+        },
+        "13t": {
+            "pro": {
+                "green": {
+                    "12/512": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-13t-pro-green-12512-gb",
+                        "title": "Xiaomi 13T Pro Green 12/512 GB",
+                        "price": 8387000,
+                        "price_credit": 980000
+                    },
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-13t-pro-green-12256-gb",
+                        "title": "Xiaomi 13T Pro Green 12/256 GB",
+                        "price": 8065000,
+                        "price_credit": 942000
+                    }
+                },
+                "black": {
+                    "12/512": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-13t-pro-black-12512-gb",
+                        "title": "Xiaomi 13T Pro Black 12/512 GB",
+                        "price": 8387000,
+                        "price_credit": 980000
+                    },
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-13t-pro-black-12256-gb",
+                        "title": "Xiaomi 13T Pro Black 12/256 GB",
+                        "price": 8065000,
+                        "price_credit": 942000
+                    }
+                },
+                "blue": {
+                    "12/512": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-13t-pro-blue-12512-gb",
+                        "title": "Xiaomi 13T Pro Blue 12/512 GB",
+                        "price": 8387000,
+                        "price_credit": 980000
+                    },
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-13t-pro-blue-12256-gb",
+                        "title": "Xiaomi 13T Pro Blue 12/256 GB",
+                        "price": 8065000,
+                        "price_credit": 942000
+                    }
+                },
+                "link": "https://olcha.uz/ru/product/view/xiaomi-13t-pro",
+                "title": "Xiaomi 13T Pro",
+                "price": 8065000,
+                "price_credit": 942000
+            },
+            "8/256": {
+                "link": "https://olcha.uz/ru/product/view/xiaomi-13t-8256-gb-blue",
+                "title": "Xiaomi 13T 8/256 GB Blue",
+                "price": 7613000,
+                "price_credit": 890000
+            },
+            "green": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-13t-green-8256-gb",
+                    "title": "Xiaomi 13T Green 8/256 GB",
+                    "price": 7613000,
+                    "price_credit": 890000
+                }
+            },
+            "black": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-13t-black-8256-gb",
+                    "title": "Xiaomi 13T Black 8/256 GB",
+                    "price": 7613000,
+                    "price_credit": 890000
+                }
+            }
+        },
+        "13": {
+            "ultra": {
+                "12/256": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-13-ultra-12256-gb-cernyi",
+                    "title": "Xiaomi 13 Ultra 12/256 GB Черный",
+                    "price": 15484000,
+                    "price_credit": 1809000
+                }
+            }
+        },
+        "poco": {
+            "f5": {
+                "12/256": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-poco-f5-12256-gb-global-white",
+                    "title": "Xiaomi Poco F5 12/256 ГБ Global White",
+                    "price": 5862000,
+                    "price_credit": 685000
+                }
+            },
+            "f4": {
+                "5g": {
+                    "8/128": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-poco-f4-5g-8128-gb-serebryanyi",
+                        "title": "Xiaomi Poco F4 5G 8/128 GB Серебряный",
+                        "price": 5433000,
+                        "price_credit": 635000
+                    },
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-poco-f4-5g-8256-gb",
+                    "title": "Xiaomi Poco F4 5G",
+                    "price": 5433000,
+                    "price_credit": 635000
+                }
+            },
+            "x5": {
+                "5g": {
+                    "8/256": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-poco-x5-5g-8256-gb-global-green",
+                        "title": "Xiaomi Poco X5 5G 8/256 ГБ (Global) Green",
+                        "price": 4529000,
+                        "price_credit": 529000
+                    }
+                },
+                "pro": {
+                    "5g": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-poco-x5-pro-5g",
+                        "title": "Xiaomi Poco X5 Pro 5G",
+                        "price": 4068000,
+                        "price_credit": 476000
+                    }
+                }
+            },
+            "c40": {
+                "3/32": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-poco-c40-332-gb",
+                    "title": "Xiaomi Poco C40 3/32 GB",
+                    "price": 1637000,
+                    "price_credit": 192000
+                },
+                "4/64": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-poco-c40-464-gb",
+                    "title": "Xiaomi Poco C40 4/64 GB",
+                    "price": 1668000,
+                    "price_credit": 195000
+                }
+            },
+            "m5": {
+                "6/128": {
+                    "link": "https://olcha.uz/ru/product/view/xiaomi-poco-m5-6128-gb",
+                    "title": "Xiaomi Poco M5 6/128 GB",
+                    "price": 2053000,
+                    "price_credit": 240000
+                }
+            }
+        },
+        "11t": {
+            "8/256": {
+                "link": "https://olcha.uz/ru/product/view/xiaomi-11t-8256-gb-meteorite-gray",
+                "title": "Xiaomi 11T 8/256 ГБ Meteorite Gray",
+                "price": 6073000,
+                "price_credit": 710000
+            }
+        },
+        "mi": {
+            "11": {
+                "lite": {
+                    "8/128гб": {
+                        "link": "https://olcha.uz/ru/product/view/xiaomi-mi-11-lite-8128gb-black",
+                        "title": "Xiaomi Mi 11 Lite 8/128ГБ Black",
+                        "price": 5098000,
+                        "price_credit": 596000
+                    }
+                }
+            }
+        }
+    },
+    "apple": {
+        "iphone": {
+            "15": {
+                "plus": {
+                    "256gb": {
+                        "pink": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-256gb-pink",
+                            "title": "Apple iPhone 15 Plus 256GB Pink",
+                            "price": 14940000,
+                            "price_credit": 1745000
+                        },
+                        "yellow": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-256gb-yellow",
+                            "title": "Apple iPhone 15 Plus 256GB Yellow",
+                            "price": 15871000,
+                            "price_credit": 1854000
+                        },
+                        "green": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-256gb-green",
+                            "title": "Apple iPhone 15 Plus 256GB Green",
+                            "price": 15871000,
+                            "price_credit": 1854000
+                        },
+                        "black": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-256gb-black",
+                            "title": "Apple iPhone 15 Plus 256GB Black",
+                            "price": 15871000,
+                            "price_credit": 1854000
+                        },
+                        "blue": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-256gb-blue",
+                            "title": "Apple iPhone 15 Plus 256GB Blue",
+                            "price": 15871000,
+                            "price_credit": 1854000
+                        }
+                    },
+                    "128gb": {
+                        "pink": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-128gb-pink",
+                            "title": "Apple iPhone 15 Plus 128GB Pink",
+                            "price": 14193000,
+                            "price_credit": 1658000
+                        },
+                        "yellow": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-128gb-yellow",
+                            "title": "Apple iPhone 15 Plus 128GB Yellow",
+                            "price": 14193000,
+                            "price_credit": 1658000
+                        },
+                        "green": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-128gb-green",
+                            "title": "Apple iPhone 15 Plus 128GB Green",
+                            "price": 14193000,
+                            "price_credit": 1658000
+                        },
+                        "black": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-128gb-black",
+                            "title": "Apple iPhone 15 Plus 128GB Black",
+                            "price": 14193000,
+                            "price_credit": 1658000
+                        },
+                        "blue": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-128gb-blue",
+                            "title": "Apple iPhone 15 Plus 128GB Blue",
+                            "price": 14193000,
+                            "price_credit": 1658000
+                        }
+                    },
+                    "512": {
+                        "yellow": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-512-gb-yellow",
+                            "title": "Apple iPhone 15 Plus 512 GB Yellow",
+                            "price": 17161000,
+                            "price_credit": 2005000
+                        },
+                        "green": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-512-gb-green",
+                            "title": "Apple iPhone 15 Plus 512 GB Green",
+                            "price": 17161000,
+                            "price_credit": 2005000
+                        },
+                        "black": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-512-gb-black",
+                            "title": "Apple iPhone 15 Plus 512 GB Black",
+                            "price": 17161000,
+                            "price_credit": 2005000
+                        },
+                        "blue": {
+                            "link": "https://olcha.uz/ru/product/view/apple-iphone-15-plus-512-gb-blue",
+                            "title": "Apple iPhone 15 Plus 512 GB Blue",
+                            "price": 17161000,
+                            "price_credit": 2005000
+                        }
+                    }
+                },
+                "512": {
+                    "pink": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-512-gb-pink",
+                        "title": "Apple iPhone 15 512 GB Pink",
+                        "price": 15167000,
+                        "price_credit": 1772000
+                    },
+                    "yellow": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-512-gb-yellow",
+                        "title": "Apple iPhone 15 512 GB Yellow",
+                        "price": 15484000,
+                        "price_credit": 1809000
+                    },
+                    "green": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-512-gb-green",
+                        "title": "Apple iPhone 15 512 GB Green",
+                        "price": 15484000,
+                        "price_credit": 1809000
+                    },
+                    "black": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-512-gb-black",
+                        "title": "Apple iPhone 15 512 GB Black",
+                        "price": 15484000,
+                        "price_credit": 1809000
+                    },
+                    "blue": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-512-gb-blue",
+                        "title": "Apple iPhone 15 512 GB Blue",
+                        "price": 15484000,
+                        "price_credit": 1809000
+                    }
+                },
+                "256gb": {
+                    "pink": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-256gb-pink",
+                        "title": "Apple iPhone 15 256GB Pink",
+                        "price": 14193000,
+                        "price_credit": 1658000
+                    },
+                    "yellow": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-256gb-yellow",
+                        "title": "Apple iPhone 15 256GB Yellow",
+                        "price": 14193000,
+                        "price_credit": 1658000
+                    },
+                    "green": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-256gb-green",
+                        "title": "Apple iPhone 15 256GB Green",
+                        "price": 14193000,
+                        "price_credit": 1658000
+                    },
+                    "black": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-256gb-black",
+                        "title": "Apple iPhone 15 256GB Black",
+                        "price": 14193000,
+                        "price_credit": 1658000
+                    },
+                    "blue": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-256gb-blue",
+                        "title": "Apple iPhone 15 256GB Blue",
+                        "price": 14193000,
+                        "price_credit": 1658000
+                    }
+                },
+                "128gb": {
+                    "pink": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-128gb-pink",
+                        "title": "Apple iPhone 15 128GB Pink",
+                        "price": 12903000,
+                        "price_credit": 1507000
+                    },
+                    "yellow": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-128gb-yellow",
+                        "title": "Apple iPhone 15 128GB Yellow",
+                        "price": 12903000,
+                        "price_credit": 1507000
+                    },
+                    "green": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-128gb-green",
+                        "title": "Apple iPhone 15 128GB Green",
+                        "price": 12903000,
+                        "price_credit": 1507000
+                    },
+                    "black": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-128gb-black",
+                        "title": "Apple iPhone 15 128GB Black",
+                        "price": 12903000,
+                        "price_credit": 1507000
+                    },
+                    "blue": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-15-128gb-blue",
+                        "title": "Apple iPhone 15 128GB Blue",
+                        "price": 12903000,
+                        "price_credit": 1507000
+                    }
+                },
+                "pro": {
+                    "max": {
+                        "1": {
+                            "natural": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-1-tb-natural-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 1 TB Natural titanium",
+                                    "price": 23094000,
+                                    "price_credit": 2697000
+                                }
+                            },
+                            "blue": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-1-tb-blue-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 1 TB Blue titanium",
+                                    "price": 23094000,
+                                    "price_credit": 2697000
+                                }
+                            },
+                            "white": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-1-tb-white-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 1 TB White titanium",
+                                    "price": 23094000,
+                                    "price_credit": 2697000
+                                }
+                            },
+                            "black": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-1-tb-black-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 1 TB Black titanium",
+                                    "price": 23094000,
+                                    "price_credit": 2697000
+                                }
+                            }
+                        },
+                        "512": {
+                            "natural": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-512-gb-natural-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 512 GB Natural titanium",
+                                    "price": 19812000,
+                                    "price_credit": 2314000
+                                }
+                            },
+                            "blue": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-512-gb-blue-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 512 GB Blue titanium",
+                                    "price": 19812000,
+                                    "price_credit": 2314000
+                                }
+                            },
+                            "white": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-512-gb-white-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 512 GB White titanium",
+                                    "price": 19812000,
+                                    "price_credit": 2314000
+                                }
+                            },
+                            "black": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-512-gb-black-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 512 GB Black titanium",
+                                    "price": 19812000,
+                                    "price_credit": 2314000
+                                }
+                            }
+                        },
+                        "256gb": {
+                            "natural": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-256gb-natural-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 256GB Natural titanium",
+                                    "price": 16950000,
+                                    "price_credit": 1980000
+                                }
+                            },
+                            "blue": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-256gb-blue-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 256GB Blue titanium",
+                                    "price": 16950000,
+                                    "price_credit": 1980000
+                                }
+                            },
+                            "white": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-256gb-white-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 256GB White titanium",
+                                    "price": 16950000,
+                                    "price_credit": 1980000
+                                }
+                            },
+                            "black": {
+                                "titanium": {
+                                    "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-max-256gb-black-titanium",
+                                    "title": "Apple iPhone 15 Pro Max 256GB Black titanium",
+                                    "price": 16950000,
+                                    "price_credit": 1980000
+                                }
+                            }
+                        }
+                    },
+                    "1": {
+                        "natural": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-1-tb-natural-titanium",
+                                "title": "Apple iPhone 15 Pro 1 TB Natural titanium",
+                                "price": 28387000,
+                                "price_credit": 3316000
+                            }
+                        },
+                        "blue": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-1-tb-blue-titanium",
+                                "title": "Apple iPhone 15 Pro 1 TB Blue titanium",
+                                "price": 23612000,
+                                "price_credit": 2758000
+                            }
+                        }
+                    },
+                    "512": {
+                        "natural": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-512-gb-natural-titanium",
+                                "title": "Apple iPhone 15 Pro 512 GB Natural titanium",
+                                "price": 18034000,
+                                "price_credit": 2107000
+                            }
+                        },
+                        "blue": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-512-gb-blue-titanium",
+                                "title": "Apple iPhone 15 Pro 512 GB Blue titanium",
+                                "price": 18034000,
+                                "price_credit": 2107000
+                            }
+                        },
+                        "white": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-512-gb-white-titanium",
+                                "title": "Apple iPhone 15 Pro 512 GB White titanium",
+                                "price": 18034000,
+                                "price_credit": 2107000
+                            }
+                        },
+                        "black": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-512-gb-black-titanium",
+                                "title": "Apple iPhone 15 Pro 512 GB Black titanium",
+                                "price": 18034000,
+                                "price_credit": 2107000
+                            }
+                        }
+                    },
+                    "256gb": {
+                        "natural": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-256gb-natural-titanium",
+                                "title": "Apple iPhone 15 Pro 256GB Natural titanium",
+                                "price": 15686000,
+                                "price_credit": 1832000
+                            }
+                        },
+                        "blue": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-256gb-blue-titanium",
+                                "title": "Apple iPhone 15 Pro 256GB Blue titanium",
+                                "price": 17286000,
+                                "price_credit": 2019000
+                            }
+                        },
+                        "white": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-256gb-white-titanium",
+                                "title": "Apple iPhone 15 Pro 256GB White titanium",
+                                "price": 17286000,
+                                "price_credit": 2019000
+                            }
+                        },
+                        "black": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-256gb-black-titanium",
+                                "title": "Apple iPhone 15 Pro 256GB Black titanium",
+                                "price": 17286000,
+                                "price_credit": 2019000
+                            }
+                        }
+                    },
+                    "128gb": {
+                        "natural": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-128gb-natural-titanium",
+                                "title": "Apple iPhone 15 Pro 128GB Natural titanium",
+                                "price": 14700000,
+                                "price_credit": 1717000
+                            }
+                        },
+                        "blue": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-128gb-blue-titanium",
+                                "title": "Apple iPhone 15 Pro 128GB Blue titanium",
+                                "price": 14700000,
+                                "price_credit": 1717000
+                            }
+                        },
+                        "white": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-128gb-white-titanium",
+                                "title": "Apple iPhone 15 Pro 128GB White titanium",
+                                "price": 14700000,
+                                "price_credit": 1717000
+                            }
+                        },
+                        "black": {
+                            "titanium": {
+                                "link": "https://olcha.uz/ru/product/view/apple-iphone-15-pro-128gb-black-titanium",
+                                "title": "Apple iPhone 15 Pro 128GB Black titanium",
+                                "price": 14700000,
+                                "price_credit": 1717000
+                            }
+                        }
+                    }
+                }
+            },
+            "14": {
+                "pro": {
+                    "link": "https://olcha.uz/ru/product/view/apple-iphone-14-pro",
+                    "title": "Apple iPhone 14 Pro",
+                    "price": 14655000,
+                    "price_credit": 1712000
+                }
+            },
+            "13": {
+                "128gb": {
+                    "pink": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-13-128gb-pink",
+                        "title": "Apple Iphone 13 128GB Pink",
+                        "price": 9019000,
+                        "price_credit": 1054000
+                    },
+                    "link": "https://olcha.uz/ru/product/view/apple-iphone-13-128gb",
+                    "title": "Apple Iphone 13 128GB",
+                    "price": 9019000,
+                    "price_credit": 1054000
+                }
+            },
+            "12": {
+                "64gb": {
+                    "white": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-12-64gb-white",
+                        "title": "Apple iPhone 12 64GB White",
+                        "price": 8173000,
+                        "price_credit": 955000
+                    },
+                    "green": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-12-64gb-green",
+                        "title": "Apple iPhone 12 64GB Green",
+                        "price": 8173000,
+                        "price_credit": 955000
+                    },
+                    "black": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-12-64gb-black",
+                        "title": "Apple iPhone 12 64GB Black",
+                        "price": 8173000,
+                        "price_credit": 955000
+                    },
+                    "blue": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-12-64gb-blue",
+                        "title": "Apple iPhone 12 64GB Blue",
+                        "price": 8173000,
+                        "price_credit": 955000
+                    }
+                }
+            },
+            "11": {
+                "128gb,": {
+                    "black": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-11-128gb-black",
+                        "title": "Apple iPhone 11 128GB, Black",
+                        "price": 7478000,
+                        "price_credit": 874000
+                    }
+                },
+                "64gb,": {
+                    "black": {
+                        "link": "https://olcha.uz/ru/product/view/apple-iphone-11-64gb",
+                        "title": "Apple iPhone 11 64GB, Black",
+                        "price": 7088000,
+                        "price_credit": 828000
+                    }
+                }
+            }
+        }
+    },
+    "huawei": {
+        "nova": {
+            "11": {
+                "pro": {
+                    "8/256": {
+                        "link": "https://olcha.uz/ru/product/view/huawei-nova-11-pro-8256-gb-green",
+                        "title": "Huawei Nova 11 Pro 8/256 GB Green",
+                        "price": 8399000,
+                        "price_credit": 981000
+                    }
+                },
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/huawei-nova-11-8256-gb-gold",
+                    "title": "Huawei nova 11 8/256 GB Gold",
+                    "price": 6499000,
+                    "price_credit": 759000
+                }
+            },
+            "y91": {
+                "link": "https://olcha.uz/ru/product/view/huawei-nova-y91",
+                "title": "Huawei Nova Y91",
+                "price": 3569000,
+                "price_credit": 417000
+            },
+            "11i": {
+                "8/128gb": {
+                    "link": "https://olcha.uz/ru/product/view/huawei-nova-11i-8128gb-green",
+                    "title": "Huawei Nova 11i 8/128GB Green",
+                    "price": 2899000,
+                    "price_credit": 339000
+                }
+            },
+            "10": {
+                "link": "https://olcha.uz/ru/product/view/huawei-nova-10",
+                "title": "Смартфон Huawei nova 10",
+                "price": 6651000,
+                "price_credit": 777000,
+                "pro": {
+                    "link": "https://olcha.uz/ru/product/view/huawei-nova-10-pro",
+                    "title": "Huawei nova 10 Pro",
+                    "price": 7060000,
+                    "price_credit": 825000
+                },
+                "se": {
+                    "link": "https://olcha.uz/ru/product/view/huawei-nova-10-se",
+                    "title": "Смартфон Huawei nova 10 SE",
+                    "price": 4449000,
+                    "price_credit": 520000
+                }
+            },
+            "y61": {
+                "link": "https://olcha.uz/ru/product/view/huawei-nova-y61",
+                "title": "Смартфон Huawei nova Y61",
+                "price": 2069000,
+                "price_credit": 210000
+            },
+            "y70": {
+                "link": "https://olcha.uz/ru/product/view/huawei-nova-y70",
+                "title": "Смартфон Huawei Nova Y70",
+                "price": 2132000,
+                "price_credit": 249000
+            },
+            "y90": {
+                "link": "https://olcha.uz/ru/product/view/huawei-nova-y90",
+                "title": "Смартфон Huawei Nova Y90",
+                "price": 2929000,
+                "price_credit": 343000
+            }
+        },
+        "p60": {
+            "link": "https://olcha.uz/ru/product/view/huawei-p60",
+            "title": "Huawei P60",
+            "price": 9999000,
+            "price_credit": 1168000,
+            "pro": {
+                "link": "https://olcha.uz/ru/product/view/huawei-p60-pro",
+                "title": "Huawei P60 Pro",
+                "price": 11999000,
+                "price_credit": 1402000
+            }
+        }
+    },
+    "vivo": {
+        "v27e": {
+            "8/256gb": {
+                "link": "https://olcha.uz/ru/product/view/vivo-v27e-8256gb-green",
+                "title": "Vivo V27e 8/256GB Green",
+                "price": 4615000,
+                "price_credit": 539000
+            }
+        },
+        "y02": {
+            "(global)": {
+                "link": "https://olcha.uz/ru/product/view/vivo-y02-global",
+                "title": "Vivo Y02 (Global)",
+                "price": 1599000,
+                "price_credit": 187000
+            }
+        },
+        "v25": {
+            "5g": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/vivo-v25-5g",
+                    "title": "Vivo V25 5G 8/256 GB",
+                    "price": 5470000,
+                    "price_credit": 639000
+                }
+            }
+        },
+        "v23e": {
+            "8/128gb": {
+                "link": "https://olcha.uz/ru/product/view/smartfon-vivo-v23e-chernyy",
+                "title": "Vivo V23e 8/128GB Черный",
+                "price": 4646000,
+                "price_credit": 543000
+            }
+        },
+        "v23": {
+            "5g": {
+                "link": "https://olcha.uz/ru/product/view/smartfon-vivo-v23-5g",
+                "title": "Смартфон Vivo V23 5G",
+                "price": 6930000,
+                "price_credit": 810000
+            }
+        },
+        "v21e": {
+            "8/128gb": {
+                "link": "https://olcha.uz/ru/product/view/vivo-v21e-8128gb-roman-black",
+                "title": "Vivo V21e 8/128GB Roman Black",
+                "price": 5677000,
+                "price_credit": 663000
+            }
+        },
+        "v21": {
+            "8/128gb": {
+                "link": "https://olcha.uz/ru/product/view/vivo-v21-8128gb-sunset-dazzle",
+                "title": "Vivo V21 8/128GB Sunset Dazzle",
+                "price": 5677000,
+                "price_credit": 663000
+            }
+        }
+    },
+    "realme": {
+        "c55": {
+            "черный": {
+                "6/256": {
+                    "link": "https://olcha.uz/ru/product/view/realme-c55-cernyi-6256-gb",
+                    "title": "Realme C55 Черный 6/256 GB",
+                    "price": 3419000,
+                    "price_credit": 400000
+                },
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/realme-c55-cernyi-8256-gb",
+                    "title": "Realme C55 Черный 8/256 GB",
+                    "price": 3419000,
+                    "price_credit": 400000
+                },
+                "6/128": {
+                    "link": "https://olcha.uz/ru/product/view/realme-c55-cernyi-6128-gb",
+                    "title": "Realme C55 Черный 6/128 GB",
+                    "price": 3356000,
+                    "price_credit": 392000
+                }
+            },
+            "перламутровый": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/realme-c55-zeltyi-8256-gb",
+                    "title": "Realme C55 Перламутровый 8/256 GB",
+                    "price": 3549000,
+                    "price_credit": 415000
+                },
+                "6/128": {
+                    "link": "https://olcha.uz/ru/product/view/realme-c55-zeltyi-6128-gb",
+                    "title": "Realme C55 Перламутровый 6/128 GB",
+                    "price": 3749000,
+                    "price_credit": 438000
+                }
+            },
+            "синий": {
+                "8/256": {
+                    "link": "https://olcha.uz/ru/product/view/realme-c55-sinii-8256-gb",
+                    "title": "Realme C55 Синий 8/256 GB",
+                    "price": 3549000,
+                    "price_credit": 415000
+                },
+                "6/128": {
+                    "link": "https://olcha.uz/ru/product/view/realme-c55-sinii-6128-gb",
+                    "title": "Realme C55 Синий 6/128 GB",
+                    "price": 3749000,
+                    "price_credit": 438000
+                }
+            }
+        },
+        "10": {
+            "8/128": {
+                "link": "https://olcha.uz/ru/product/view/realme-10-8128-gb-belyi",
+                "title": "Realme 10 8/128 GB Белый",
+                "price": 3593000,
+                "price_credit": 420000
+            },
+            "pro": {
+                "plus": {
+                    "12gb/256gb": {
+                        "link": "https://olcha.uz/ru/product/view/realme-10-pro-plus-12gb256gb-rmx3686-dark-matter",
+                        "title": "Realme 10 Pro Plus 12GB/256GB RMX3686 (Dark Matter)",
+                        "price": 6299000,
+                        "price_credit": 736000
+                    }
+                }
+            }
+        },
+        "narzo": {
+            "50": {
+                "6/128gb": {
+                    "link": "https://olcha.uz/ru/product/view/realme-narzo-50-6128gb-cernyi",
+                    "title": "Realme Narzo 50 6/128GB Черный",
+                    "price": 3187000,
+                    "price_credit": 373000
+                }
+            }
+        },
+        "9i": {
+            "/": {
+                "link": "https://olcha.uz/ru/product/view/realme-9i-rmx3491-black-4128-gb",
+                "title": "Realme 9i / RMX3491 Black 4/128 GB",
+                "price": 2686000,
+                "price_credit": 314000
+            }
+        },
+        "9": {
+            "pro": {
+                "8/128gb": {
+                    "link": "https://olcha.uz/ru/product/view/realme-9-pro-8128gb-rmx3472-black",
+                    "title": "Realme 9 Pro 8/128GB (RMX3472) Black",
+                    "price": 4217000,
+                    "price_credit": 493000
+                }
+            }
+        },
+        "gt": {
+            "neo": {
+                "3": {
+                    "12/256": {
+                        "link": "https://olcha.uz/ru/product/view/realme-gt-neo-3-12256-gb-asphalt-black",
+                        "title": "Realme GT Neo 3 12/256 GB Asphalt Black",
+                        "price": 7104000,
+                        "price_credit": 830000
+                    }
+                }
+            }
+        },
+        "c35": {
+            "4/128gb": {
+                "link": "https://olcha.uz/ru/product/view/realme-c35-4128gb-zelenyy",
+                "title": "Realme C35 4/128GB Зеленый",
+                "price": 2829000,
+                "price_credit": 331000
+            }
+        },
+        "c33": {
+            "черный": {
+                "4/128": {
+                    "link": "https://olcha.uz/ru/product/view/realme-c33-chernyy-4128-gb",
+                    "title": "Realme C33 Черный 4/128 GB",
+                    "price": 2862000,
+                    "price_credit": 335000
+                }
+            }
+        },
+        "c30s": {
+            "черный": {
+                "4/64": {
+                    "link": "https://olcha.uz/ru/product/view/realme-c30-chernyy-464-gb",
+                    "title": "Realme C30s Черный 4/64 GB",
+                    "price": 1844000,
+                    "price_credit": 216000
+                }
+            },
+            "синий": {
+                "2/32": {
+                    "link": "https://olcha.uz/ru/product/view/realme-c30-siniy-232-gb",
+                    "title": "Realme C30s Синий 2/32 GB",
+                    "price": 1737000,
+                    "price_credit": 203000
+                }
+            }
+        },
+        "8": {
+            "silver": {
+                "8/128": {
+                    "link": "https://olcha.uz/ru/product/view/realme-8-silver-8128-gb",
+                    "title": "Realme 8 Silver 8/128 GB",
+                    "price": 3053000,
+                    "price_credit": 357000
+                }
+            },
+            "black": {
+                "8/128": {
+                    "link": "https://olcha.uz/ru/product/view/realme-8-black-8128-gb",
+                    "title": "Realme 8 Black 8/128 GB",
+                    "price": 3053000,
+                    "price_credit": 357000
+                }
+            },
+            "link": "https://olcha.uz/ru/product/view/realme-8-6128gb",
+            "title": "Realme 8",
+            "price": 3053000,
+            "price_credit": 357000
+        },
+        "c25y": {
+            "4/128gb": {
+                "link": "https://olcha.uz/ru/product/view/realme-c25y-4128gb-metallicheskiy-seryy",
+                "title": "Realme C25Y 4/128GB Металлический серый",
+                "price": 2251000,
+                "price_credit": 263000
+            }
+        },
+        "c21y": {
+            "4/64gb": {
+                "link": "https://olcha.uz/ru/product/view/realme-c21y-464gb-cross-black",
+                "title": "Realme C21Y 4/64GB Cross Black",
+                "price": 2158000,
+                "price_credit": 253000
+            }
+        }
+    },
+    "google": {
+        "pixel": {
+            "7": {
+                "pro": {
+                    "eu": {
+                        "5g": {
+                            "(ge2ae)": {
+                                "12/256": {
+                                    "link": "https://olcha.uz/ru/product/view/google-pixel-7-pro-eu-5g-ge2ae-12256-gb-orexovyi",
+                                    "title": "Google Pixel 7 Pro EU 5G (GE2AE) 12/256 GB ореховый",
+                                    "price": 15568000,
+                                    "price_credit": 1819000
+                                },
+                                "белый": {
+                                    "12/256": {
+                                        "link": "https://olcha.uz/ru/product/view/google-pixel-7-pro-eu-5g-ge2ae-belyi-12256-gb",
+                                        "title": "Google Pixel 7 Pro EU 5G (GE2AE) Белый 12/256 GB",
+                                        "price": 15568000,
+                                        "price_credit": 1819000
+                                    }
+                                },
+                                "черный": {
+                                    "12/256": {
+                                        "link": "https://olcha.uz/ru/product/view/google-pixel-7-pro-eu-5g-ge2ae-cernyi-12256-gb",
+                                        "title": "Google Pixel 7 Pro EU 5G (GE2AE) Черный 12/256 GB",
+                                        "price": 15568000,
+                                        "price_credit": 1819000
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "oppo": {
+        "a77s": {
+            "8/128": {
+                "link": "https://olcha.uz/ru/product/view/oppo-a77s-8128-gb-orange",
+                "title": "Oppo A77S 8/128 GB Orange",
+                "price": 3484000,
+                "price_credit": 407000
+            }
+        },
+        "a57s": {
+            "4/128": {
+                "link": "https://olcha.uz/ru/product/view/oppo-a57s-4128-gb-starry-black-cph2385",
+                "title": "Oppo A57s 4/128 GB Starry Black (CPH2385)",
+                "price": 2903000,
+                "price_credit": 340000
+            },
+            "синий": {
+                "4/128": {
+                    "link": "https://olcha.uz/ru/product/view/oppo-a57s-siniy-4128-gb",
+                    "title": "Oppo A57s Синий 4/128 GB",
+                    "price": 2903000,
+                    "price_credit": 340000
+                },
+                "4/64": {
+                    "link": "https://olcha.uz/ru/product/view/oppo-a57s-siniy-464-gb",
+                    "title": "Oppo A57s Синий 4/64 GB",
+                    "price": 2646000,
+                    "price_credit": 310000
+                }
+            },
+            "черный": {
+                "4/64": {
+                    "link": "https://olcha.uz/ru/product/view/oppo-a57s-chernyy-464-gb",
+                    "title": "Oppo A57s Черный 4/64 GB",
+                    "price": 2646000,
+                    "price_credit": 310000
+                }
+            }
+        },
+        "a17": {
+            "4/64": {
+                "link": "https://olcha.uz/ru/product/view/oppo-a17-464-gb-siniy",
+                "title": "Oppo A17 4/64 GB Синий",
+                "price": 2129000,
+                "price_credit": 249000
+            }
+        },
+        "reno": {
+            "7": {
+                "(8+128)": {
+                    "link": "https://olcha.uz/ru/product/view/oppo-reno-7-8128",
+                    "title": "Oppo Reno 7 (8+128)",
+                    "price": 4194000,
+                    "price_credit": 490000
+                }
+            }
+        },
+        "a17k": {
+            "3/64": {
+                "link": "https://olcha.uz/ru/product/view/oppo-a17k-364-gb-temno-siniy",
+                "title": "Oppo A17k 3/64 GB темно-синий",
+                "price": 1677000,
+                "price_credit": 196000
+            }
+        }
+    },
+    "infinix": {
+        "smart": {
+            "6": {
+                "link": "https://olcha.uz/ru/product/view/infinix-smart-6",
+                "title": "Infinix Smart 6",
+                "price": 1367300,
+                "price_credit": 160000
+            }
+        }
+    },
+    "zte": {
+        "blade": {
+            "v30": {
+                "vita": {
+                    "4/128": {
+                        "link": "https://olcha.uz/ru/product/view/zte-blade-v30-vita-4128-gb-chernyy",
+                        "title": "ZTE Blade V30 VITA 4/128 GB Черный",
+                        "price": 2095000,
+                        "price_credit": 245000
+                    }
+                }
+            },
+            "a71": {
+                "3/64gb": {
+                    "link": "https://olcha.uz/ru/product/view/zte-blade-a71-364gb-blue",
+                    "title": "ZTE Blade A71 3/64GB Blue (6902176057472)",
+                    "price": 1346000,
+                    "price_credit": 158000
+                }
+            }
+        }
+    },
+    "blackview": {
+        "bv4900": {
+            "pro": {
+                "4/64": {
+                    "link": "https://olcha.uz/ru/product/view/smartfon-blackview-bv4900-pro-464-gb-black",
+                    "title": "Смартфон Blackview BV4900 Pro 4/64 GB Black (6931548306610)",
+                    "price": 2363000,
+                    "price_credit": 276000
+                }
+            },
+            "3/32": {
+                "link": "https://olcha.uz/ru/product/view/smartfon-blackview-bv4900-332-gb-orange",
+                "title": "Смартфон Blackview BV4900 3/32 GB Orange (6931548306467)",
+                "price": 2205000,
+                "price_credit": 258000
+            }
+        },
+        "a60": {
+            "pro": {
+                "3/16": {
+                    "link": "https://olcha.uz/ru/product/view/smartfon-blackview-a60-pro-316-gb-interstellar-black",
+                    "title": "Смартфон Blackview A60 Pro 3/16 GB Interstellar Black (6931548305767)",
+                    "price": 1675000,
+                    "price_credit": 196000
+                }
+            }
+        }
+    }
+}
