@@ -16,12 +16,13 @@ class Parser(BaseParser):
         self.URL = "https://olcha.uz"
         self.category = category
         self.subcategory = subcategory
+        self.function = append_dict
 
     async def get_soup(self, page=None):
 
         url = f"{self.URL}/ru/category/{self.category}/{self.subcategory}"
 
-        print(f'\n{url}\n')
+        # print(f'\n{url}\n')
 
         if page is not None:
             url += f"?page={page}"
@@ -30,16 +31,17 @@ class Parser(BaseParser):
         }
 
         html, status = await self.async_fetch(url=url, headers=headers)
-        print(f"\nStatus code: {status}\n")
+        # print(f"\nStatus code: {status}\n")
         soup = BeautifulSoup(html, 'html.parser')
         return soup
 
-    async def get_page_data(self, page_number, i=0) -> dict:
+    async def get_page_data(self, page_number) -> dict:
 
         page_data: dict = {}
         soup = await self.get_soup(page_number)
         cards = soup.find_all("div", class_="product-card")
-        for card in cards:
+        index = 0
+        for index, card in enumerate(cards):
             link = self.URL + card.find("a", class_="product-card__link")['href']
             title = card.find("div", class_="product-card__brand-name").get_text(strip=True)
             price = get_number_from_text(card.find("div", class_="price__main").get_text(strip=True))
@@ -55,8 +57,8 @@ class Parser(BaseParser):
             else:
                 continue
 
-            i += 1
-            page_data[str(i)] = data
+            page_data[str(index + 1)] = data
+        print(f'\nPage number: {page_number}, append = {index + 1} elements\n')
         return page_data
 
     async def get_total_page(self) -> int:

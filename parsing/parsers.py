@@ -6,14 +6,16 @@ import requests
 import aiohttp
 import asyncio
 import pyppeteer
+from datetime import datetime
 from bs4 import BeautifulSoup
+from pathlib import Path
 from pprint import pprint
 
 ALLOWED_MARKS = ('apple', 'samsung', 'iphone', 'xiaomi', 'huawei', 'blackview',
                  'zte', 'vivo', 'oppo', 'honor', 'techno', 'infinix', 'oppo', 'realme', 'google')
 
 
-async def recursion_dict_extend_dict(main: dict, second: dict) -> None:
+async def recursion_dict_extend_dict(main: dict, second: dict, *args) -> None:
     for key, value in second.items():
         if key not in main.keys():
             main[key] = value
@@ -22,8 +24,8 @@ async def recursion_dict_extend_dict(main: dict, second: dict) -> None:
                 await recursion_dict_extend_dict(main[key], value)
 
 
-async def append_dict(main: dict, second: dict, number) -> None:
-    main[number] = second
+async def append_dict(main: dict, second: dict, key) -> None:
+    main[key] = second
 
 
 def get_number_from_text(text: str) -> int:
@@ -36,8 +38,10 @@ def get_number_from_text(text: str) -> int:
 
 
 class BaseParser:
-    def __init__(self, dirname: str = ''):
+    def __init__(self, dirname: str):
         self.dirname = dirname
+        self.function = recursion_dict_extend_dict
+        self.file = __file__
 
     def fetch(self, url, headers=None):
         response = requests.get(url)
@@ -58,17 +62,17 @@ class BaseParser:
 
         if total_page == 0:
             raise Exception("Not found total page!")
-
-        tasks = [self.get_page_data(page_number, total_page * (page_number - 1))
+        print(f'\nTotal pages: {total_page}\n')
+        tasks = [self.get_page_data(page_number)
                  for page_number in range(1, total_page + 1)]
 
         page_data = await asyncio.gather(*tasks)
-        for data in page_data:
-            pprint(data)
-        await asyncio.gather(*[append_dict(json_data, data, index + 1) for index, data in enumerate(page_data)])
+        # for data in page_data:
+        #     pprint(data)
+        await asyncio.gather(*[self.function(json_data, data, index + 1) for index, data in enumerate(page_data)])
         return json_data
 
-    async def get_page_data(self, page_number, i=0) -> dict:
+    async def get_page_data(self, page_number) -> dict:
         pass
 
     async def get_total_page(self) -> int:
@@ -77,8 +81,17 @@ class BaseParser:
     async def write_json_file(self):
         json_data = await self.get_json_data()
         os.makedirs('json_data', exist_ok=True)
-        with open(f'json_data/{str(self.dirname)}.json', 'w') as outfile:
+        current_time = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+        file_name = self.dirname + current_time + ".json"
+
+        with open(f'json_data/{file_name}', 'w') as outfile:
             json.dump(json_data, outfile, indent=4, ensure_ascii=False)
 
     async def run(self):
         await self.write_json_file()
+
+
+
+
+
+

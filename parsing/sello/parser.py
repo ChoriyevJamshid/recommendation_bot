@@ -15,11 +15,12 @@ class Parser(BaseParser):
         self.URL = 'https://sello.uz'
         self.category = category
         self.subcategory = subcategory
+        self.file = __file__
 
     async def get_soup(self, page=None):
         url = f"{self.URL}/category/elektronika/{self.category}/{self.subcategory}"
 
-        print(f'\n{url}\n')
+        # print(f'\n{url}\n')
 
         if page is not None:
             url += f"?page={page}"
@@ -28,22 +29,24 @@ class Parser(BaseParser):
         }
 
         html, status = await self.async_fetch(url=url, headers=headers)
-        print(f"\nStatus code: {status}\n")
+        # print(f"\nStatus code: {status}\n")
         soup = BeautifulSoup(html, 'html.parser')
         return soup
 
-    async def get_page_data(self, page_number, i=0) -> dict:
+    async def get_page_data(self, page_number) -> dict:
 
         page_data: dict = {}
         soup = await self.get_soup(page_number)
 
         cards = soup.find_all('div', class_='col mb-3')
-
+        index = 0
         for index, card in enumerate(cards):
             link = self.URL + card.find('a', class_="d-block p-1")['href']
             title = card.find("span", class_="t-truncate-4").get_text(strip=True)
             price = get_number_from_text(
-                card.select(f"#__next > div.w-100.h-100.mt-2.mt-lg-0.mb-3 > div.container.py-2 > div.d-block.d-md-flex > div:nth-child(2) > div.row.gx-2.gx-lg-3.row-cols-2.row-cols-sm-3.row-cols-md-4.row-cols-lg-5.row-cols-xl-5 > div:nth-child({index + 1}) > div > div.px-2.pb-3.position-relative > div")[0].get_text(strip=True))
+                card.select(
+                    f"#__next > div.w-100.h-100.mt-2.mt-lg-0.mb-3 > div.container.py-2 > div.d-block.d-md-flex > div:nth-child(2) > div.row.gx-2.gx-lg-3.row-cols-2.row-cols-sm-3.row-cols-md-4.row-cols-lg-5.row-cols-xl-5 > div:nth-child({index + 1}) > div > div.px-2.pb-3.position-relative > div")[
+                    0].get_text(strip=True))
 
             data = {
                 'link': link,
@@ -51,8 +54,8 @@ class Parser(BaseParser):
                 'price': price,
             }
 
-            i += 1
-            page_data[str(i)] = data
+            page_data[str(index + 1)] = data
+        print(f'\nPage number: {page_number}, append = {index + 1} elements\n')
         return page_data
 
     async def get_total_page(self) -> int:

@@ -16,6 +16,7 @@ class Parser(BaseParser):
         self.URL = "https://texnomart.uz"
         self.category = category
         self.subcategory = subcategory
+        self.function = append_dict
 
     async def get_soup(self, page=None):
         url = f"{self.URL}/ru/{self.category}/{self.subcategory}/"
@@ -39,8 +40,8 @@ class Parser(BaseParser):
         soup = await self.get_soup(page_number)
 
         cards = soup.find_all("div", class_="product-item-wrapper")
-
-        for card in cards:
+        index = 0
+        for index, card in enumerate(cards):
 
             link = self.URL + card.find("a", class_="product-name")['href']
             title = card.find("a", class_="product-name").get_text(strip=True)
@@ -54,9 +55,8 @@ class Parser(BaseParser):
                 'price_credit': price_credit,
             }
 
-            i += 1
-            page_data[str(i)] = data
-        print(len(page_data))
+            page_data[str(index + 1)] = data
+        print(f'\nPage number: {page_number}, append = {index + 1} elements\n')
         return page_data
 
     async def get_total_page(self) -> int:
@@ -65,7 +65,7 @@ class Parser(BaseParser):
             "#catalog__page > div.catalog-content__products > div:nth-child(2) > div.pagination > div > div.vue-ads-flex-grow.vue-ads-flex.vue-ads-justify-end > button:nth-child(8)")
         number = pagination[0].get_text(strip=True)
         if number:
-            print("Total pages:", number)
+            # print("Total pages:", number)
             return int(number)
         return 0
 
