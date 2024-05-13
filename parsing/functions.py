@@ -40,10 +40,9 @@ def get_hierarchical_dict_olcha(current_data: dict, items: list | tuple, data: d
 
 
 def is_pow_number(number: int, degree: int):
-    if isinstance(number, int) and number >= 32:
+    if isinstance(number, int):
         while number > 1:
             number /= degree
-
         if number == 1:
             return True
     return False

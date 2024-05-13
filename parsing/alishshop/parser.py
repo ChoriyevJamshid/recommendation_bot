@@ -1,4 +1,5 @@
 from parsing.parsers import *
+from functions import filter_items, get_hierarchical_dict
 
 categories = {
     'smartphone': {
@@ -15,7 +16,8 @@ class Parser(BaseParser):
         self.URL = 'https://alifshop.uz'
         self.category = category
         self.subcategory = subcategory
-        self.function = append_dict
+        self.function = recursion_dict_extend_dict
+        self.get_hierarchical_dict = get_hierarchical_dict
 
     async def get_soup(self, page=None):
         url = f"{self.URL}/ru/{self.category}/{self.subcategory}/"
@@ -40,7 +42,7 @@ class Parser(BaseParser):
 
         main = soup.find("main", class_="flex-grow")
         cards = main.find_all("div", class_="h-full grid grid-cols-1 content-between")
-        index = 0
+        # index = 0
         for index, card in enumerate(cards):
 
             link = self.URL + card.find("a", class_="cursor-pointer")["href"]
@@ -59,27 +61,26 @@ class Parser(BaseParser):
             price = get_number_from_text(price)
             price_credit = get_number_from_text(price_credit)
 
-            # items = title.lower().split(" ")[1:]
-            #
-            # if items[0] in ALLOWED_MARKS:
-            #     data = {
-            #         'link': link,
-            #         'title': title,
-            #         'price': price,
-            #         'price_credit': price_credit,
-            #     }
-            # else:
-            #     continue
-
-            data = {
-                'link': link,
-                'title': title,
-                'price': price,
-                'price_credit': price_credit,
-            }
-
-            page_data[str(index + 1)] = data
-        print(f'\nPage number: {page_number}, append = {index + 1} elements\n')
+            items = title.lower().split(" ")[1:]
+            # print(items)
+            items = filter_items(items)
+            # print(items)
+            # print('================================================')
+            if items[0] in ALLOWED_MARKS:
+                data = {
+                    'link': link,
+                    'title': title,
+                    'price': price,
+                    'price_credit': price_credit,
+                }
+            else:
+                continue
+            self.get_hierarchical_dict(page_data, items, data)
+            # page_data[str(index + 1)] = data
+        # print(f'\nPage number: {page_number}, append = {index + 1} elements\n')
+        print(f'Page: {page_number}')
+        pprint(page_data)
+        print('\n===============================\n')
         return page_data
 
     async def get_total_page(self) -> int:

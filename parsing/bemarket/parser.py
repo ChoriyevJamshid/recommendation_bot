@@ -1,4 +1,5 @@
 from parsing.parsers import *
+from functions import get_hierarchical_dict, filter_items
 
 categories = {
     'smartphone': {
@@ -15,7 +16,8 @@ class Parser(BaseParser):
         self.URL = 'https://market.beeline.uz'
         self.category = category
         self.subcategory = subcategory
-        self.function = append_dict
+        self.function = recursion_dict_extend_dict
+        self.get_hierarchical_dict = get_hierarchical_dict
 
     async def get_soup(self, page=None):
         url = f"{self.URL}/ru/{self.category}"
@@ -51,7 +53,12 @@ class Parser(BaseParser):
                 'price': price,
             }
 
-            page_data[str(index + 1)] = data
+            items = title.lower().split(' ')
+            items = filter_items(items)
+            print(items)
+            # page_data[str(index + 1)] = data
+            self.get_hierarchical_dict(page_data, items, data)
+
         print(f'\nPage number: {page_number}, append = {index + 1} elements\n')
         return page_data
 

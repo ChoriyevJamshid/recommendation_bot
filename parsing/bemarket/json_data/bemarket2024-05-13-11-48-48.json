@@ -1,0 +1,346 @@
+{
+    "samsung": {
+        "galaxy": {
+            "a54": {
+                "5g,": {
+                    "6/128": {
+                        "link": "https://market.beeline.uz/smartfony/samsung/samsung-galaxy-a54-5g-graphite-6128-gb",
+                        "title": "Samsung Galaxy A54 5G, Graphite, 6/128 GB",
+                        "price": 3950000
+                    },
+                    "8/256": {
+                        "link": "https://market.beeline.uz/smartfony/samsung/samsung-galaxy-a54-5g-lime-8256-gb",
+                        "title": "Samsung Galaxy A54 5G, Lime, 8/256 GB",
+                        "price": 4396000
+                    }
+                }
+            },
+            "a15,": {
+                "blue": {
+                    "6/128": {
+                        "link": "https://market.beeline.uz/smartfony/samsung/samsung-galaxy-a15-blue-black-6128-gb",
+                        "title": "Samsung Galaxy A15, Blue Black, 6/128 GB",
+                        "price": 2095000
+                    }
+                }
+            },
+            "a05s,": {
+                "silver,": {
+                    "4/128": {
+                        "link": "https://market.beeline.uz/smartfony/samsung/samsung-galaxy-a05s-silver-4128-gb",
+                        "title": "Samsung Galaxy A05S, Silver, 4/128 GB",
+                        "price": 1750000
+                    }
+                }
+            },
+            "a05,": {
+                "black,": {
+                    "4/128": {
+                        "link": "https://market.beeline.uz/smartfony/samsung/samsung-galaxy-a05-black-4128-gb",
+                        "title": "Samsung Galaxy A05, Black, 4/128 GB",
+                        "price": 1550000
+                    }
+                }
+            },
+            "a25": {
+                "5g,": {
+                    "6/128": {
+                        "link": "https://market.beeline.uz/smartfony/samsung/samsung-galaxy-a25-5g-blue-black-6128-gb",
+                        "title": "Samsung Galaxy A25 5G, Blue Black, 6/128 GB",
+                        "price": 3000000
+                    }
+                }
+            },
+            "z": {
+                "flip3,": {
+                    "8/256": {
+                        "link": "https://market.beeline.uz/smartfony/samsung/smartfon-samsung-galaxy-z-flip-3-cernyi-256-gb-ram-8-gb",
+                        "title": "Samsung Galaxy Z Flip3, Phantom Black, 8/256 GB",
+                        "price": 8307000
+                    }
+                }
+            },
+            "a23,": {
+                "black,": {
+                    "6/128": {
+                        "link": "https://market.beeline.uz/smartfony/samsung/smartfon-samsung-galaxy-a23-cernyi-128-gb-ram-6-gb",
+                        "title": "Samsung Galaxy A23, Black, 6/128 GB",
+                        "price": 2565000
+                    }
+                }
+            },
+            "a33,": {
+                "blue,": {
+                    "6/128": {
+                        "link": "https://market.beeline.uz/smartfony/samsung/smartfon-samsung-galaxy-a33-sinii-128-gb-ram-6-gb",
+                        "title": "Samsung Galaxy A33, Blue, 6/128 GB",
+                        "price": 3330000
+                    }
+                }
+            },
+            "a04e,": {
+                "black,": {
+                    "3/32": {
+                        "link": "https://market.beeline.uz/smartfony/samsung/samsung-galaxy-a04e-black-332-gb",
+                        "title": "Samsung Galaxy A04e, Black, 3/32 GB",
+                        "price": 1350000
+                    }
+                }
+            }
+        }
+    },
+    "xiaomi": {
+        "redmi": {
+            "note": {
+                "13,": {
+                    "6/128": {
+                        "link": "https://market.beeline.uz/smartfony/redmi/xiaomi-redmi-note-13-midnight-black-6128-gb",
+                        "title": "Xiaomi Redmi Note 13, Midnight Black, 6/128 GB",
+                        "price": 2500000
+                    },
+                    "8/256": {
+                        "link": "https://market.beeline.uz/smartfony/redmi/xiaomi-redmi-note-13-midnight-black-8256-gb",
+                        "title": "Xiaomi Redmi Note 13, Midnight Black, 8/256 GB",
+                        "price": 2700000
+                    }
+                },
+                "13": {
+                    "8/256": {
+                        "link": "https://market.beeline.uz/smartfony/redmi/xiaomi-redmi-note-13-pro-midnight-black-8256-gb",
+                        "title": "Xiaomi Redmi Note 13 Pro, Midnight Black, 8/256 GB",
+                        "price": 3800000
+                    }
+                },
+                "11,": {
+                    "6/128": {
+                        "link": "https://market.beeline.uz/smartfony/redmi/smartfon-xiaomi-redmi-note-11-sinii-128-gb-ram-6-gb",
+                        "title": "Xiaomi Redmi Note 11, Twilight Blue, 6/128 GB",
+                        "price": 2800000
+                    }
+                },
+                "11s,": {
+                    "6/64": {
+                        "link": "https://market.beeline.uz/smartfony/redmi/smartfon-xiaomi-redmi-note-11s-belyi-64-gb-ram-6-gb",
+                        "title": "Xiaomi Redmi Note 11S, Pearl White, 6/64 GB",
+                        "price": 2635000
+                    }
+                }
+            },
+            "13c,": {
+                "midnight": {
+                    "8/256": {
+                        "link": "https://market.beeline.uz/smartfony/redmi/xiaomi-redmi-13c-midnight-black-8256-gb",
+                        "title": "Xiaomi Redmi 13C, Midnight Black, 8/256 GB",
+                        "price": 1850000
+                    }
+                },
+                "navy": {
+                    "6/128": {
+                        "link": "https://market.beeline.uz/smartfony/redmi/xiaomi-redmi-13c-navy-blue-6128-gb",
+                        "title": "Xiaomi Redmi 13C, Navy Blue, 6/128 GB",
+                        "price": 1832000
+                    }
+                }
+            },
+            "12,": {
+                "midnight": {
+                    "4/128": {
+                        "link": "https://market.beeline.uz/smartfony/redmi/xiaomi-redmi-12-midnight-black-4128-gb",
+                        "title": "Xiaomi Redmi 12, Midnight Black, 4/128 GB",
+                        "price": 1900000
+                    }
+                }
+            },
+            "a2+,": {
+                "black,": {
+                    "3/64": {
+                        "link": "https://market.beeline.uz/smartfony/redmi/xiaomi-redmi-a2-black-364-gb",
+                        "title": "Xiaomi Redmi A2+, Black, 3/64 GB",
+                        "price": 1150000
+                    }
+                }
+            }
+        }
+    },
+    "honor": {
+        "x9b": {
+            "5g,": {
+                "midnight": {
+                    "8/256": {
+                        "link": "https://market.beeline.uz/smartfony/honor/honor-x9b-5g-midnight-black-8256-gb",
+                        "title": "Honor X9b 5G, Midnight Black, 8/256 GB",
+                        "price": 3900000
+                    }
+                }
+            }
+        },
+        "x6a,": {
+            "cyan": {
+                "lake,": {
+                    "4/128": {
+                        "link": "https://market.beeline.uz/smartfony/honor/honor-x6a-cyan-lake-4128-gb",
+                        "title": "Honor X6a, Cyan Lake, 4/128 GB",
+                        "price": 1800000
+                    }
+                }
+            }
+        },
+        "x7b,": {
+            "emerald": {
+                "green,": {
+                    "8/128": {
+                        "link": "https://market.beeline.uz/smartfony/honor/honor-x7b-emerald-green-8128-gb",
+                        "title": "Honor X7b, Emerald Green, 8/128 GB",
+                        "price": 2320000
+                    }
+                }
+            },
+            "midnight": {
+                "black,": {
+                    "8/128": {
+                        "link": "https://market.beeline.uz/smartfony/honor/honor-x7b-midnight-black-8128-gb",
+                        "title": "Honor X7b, Midnight Black, 8/128 GB",
+                        "price": 2320000
+                    }
+                }
+            }
+        }
+    },
+    "apple": {
+        "iphone": {
+            "15": {
+                "pro": {
+                    "8/256": {
+                        "link": "https://market.beeline.uz/smartfony/apple/apple-iphone-15-pro-max-blue-titanium-8256-gb",
+                        "title": "Apple iPhone 15 Pro Max, Blue Titanium, 8/256 GB",
+                        "price": 19460000
+                    }
+                }
+            },
+            "13,": {
+                "midnight,": {
+                    "4/512": {
+                        "link": "https://market.beeline.uz/smartfony/apple/smartfon-apple-iphone-13-cernyi-512-gb-ram-4-gb",
+                        "title": "Apple iPhone 13, Midnight, 4/512 GB",
+                        "price": 12584000
+                    }
+                }
+            },
+            "12": {
+                "pro,": {
+                    "6/512": {
+                        "link": "https://market.beeline.uz/smartfony/apple/smartfon-apple-iphone-12-pro-goluboi-512-gb-ram-6-gb",
+                        "title": "Apple iPhone 12 Pro, Pacific Blue, 6/512 GB",
+                        "price": 13940000
+                    }
+                }
+            },
+            "14": {
+                "pro": {
+                    "6/1024": {
+                        "link": "https://market.beeline.uz/smartfony/apple/smartfon-apple-iphone-14-pro-max-cernyi-1024-gb-ram-6-gb",
+                        "title": "Apple iPhone 14 Pro Max, Space Black, 6/1024 GB",
+                        "price": 18995000
+                    }
+                }
+            },
+            "15,": {
+                "pink,": {
+                    "6/256": {
+                        "link": "https://market.beeline.uz/smartfony/apple/apple-iphone-15-pink-6256-gb",
+                        "title": "Apple iPhone 15, Pink, 6/256 GB",
+                        "price": 14430000
+                    }
+                }
+            }
+        }
+    },
+    "tecno": {
+        "pova": {
+            "neo": {
+                "3,": {
+                    "8/128": {
+                        "link": "https://market.beeline.uz/smartfony/tecno/tecno-pova-neo-3-mecha-black-8128-gb",
+                        "title": "Tecno Pova Neo 3, Mecha Black, 8/128 GB",
+                        "price": 1750000
+                    }
+                }
+            },
+            "5,": {
+                "mecha": {
+                    "8/128": {
+                        "link": "https://market.beeline.uz/smartfony/tecno/tecno-pova-5-mecha-black-8128-gb",
+                        "title": "Tecno Pova 5, Mecha Black, 8/128 GB",
+                        "price": 2400000
+                    }
+                }
+            }
+        },
+        "spark": {
+            "10": {
+                "pro,": {
+                    "8/256": {
+                        "link": "https://market.beeline.uz/smartfony/tecno/tecno-spark-10-pro-starry-black-8256-gb",
+                        "title": "Tecno Spark 10 Pro, Starry Black, 8/256 GB",
+                        "price": 2100000
+                    }
+                }
+            },
+            "10,": {
+                "meta": {
+                    "4/128": {
+                        "link": "https://market.beeline.uz/smartfony/tecno/tecno-spark-10-meta-black-4128-gb",
+                        "title": "Tecno Spark 10, Meta Black, 4/128 GB",
+                        "price": 1550000
+                    }
+                }
+            },
+            "10c,": {
+                "meta": {
+                    "4/128": {
+                        "link": "https://market.beeline.uz/smartfony/tecno/tecno-spark-10c-meta-black-4128-gb",
+                        "title": "Tecno Spark 10C, Meta Black, 4/128 GB",
+                        "price": 1500000
+                    }
+                }
+            }
+        }
+    },
+    "infinix": {
+        "hot": {
+            "30i,": {
+                "mirror": {
+                    "4/128": {
+                        "link": "https://market.beeline.uz/smartfony/infinix/infinix-hot-30i-mirror-black-4128-gb",
+                        "title": "Infinix Hot 30i, Mirror Black, 4/128 GB",
+                        "price": 1500000
+                    }
+                }
+            }
+        },
+        "smart": {
+            "6,": {
+                "ocean": {
+                    "2/32": {
+                        "link": "https://market.beeline.uz/smartfony/infinix/smartfon-infinix-smart-6-goluboi-32-gb-ram-2-gb",
+                        "title": "Infinix Smart 6, Ocean Blue, 2/32 GB",
+                        "price": 909000
+                    }
+                }
+            }
+        }
+    },
+    "realme": {
+        "gt": {
+            "master": {
+                "edition,": {
+                    "6/128": {
+                        "link": "https://market.beeline.uz/smartfony/realme/smartfon-realme-gt-master-edition-cernyi-128-gb-ram-6-gb",
+                        "title": "Realme GT Master Edition, Cosmos Black, 6/128 GB",
+                        "price": 4769000
+                    }
+                }
+            }
+        }
+    }
+}

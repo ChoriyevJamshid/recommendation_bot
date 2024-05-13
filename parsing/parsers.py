@@ -15,7 +15,7 @@ ALLOWED_MARKS = ('apple', 'samsung', 'iphone', 'xiaomi', 'huawei', 'blackview',
                  'zte', 'vivo', 'oppo', 'honor', 'techno', 'infinix', 'oppo', 'realme', 'google')
 
 
-async def recursion_dict_extend_dict(main: dict, second: dict, *args) -> None:
+async def recursion_dict_extend_dict(main: dict, second: dict) -> None:
     for key, value in second.items():
         if key not in main.keys():
             main[key] = value
@@ -42,6 +42,7 @@ class BaseParser:
         self.dirname = dirname
         self.function = recursion_dict_extend_dict
         self.file = __file__
+        self.get_hierarchical_dict = None
 
     def fetch(self, url, headers=None):
         response = requests.get(url)
@@ -67,9 +68,8 @@ class BaseParser:
                  for page_number in range(1, total_page + 1)]
 
         page_data = await asyncio.gather(*tasks)
-        # for data in page_data:
-        #     pprint(data)
-        await asyncio.gather(*[self.function(json_data, data, index + 1) for index, data in enumerate(page_data)])
+        # await asyncio.gather(*[self.function(json_data, data, index + 1) for index, data in enumerate(page_data)])
+        await asyncio.gather(*[self.function(json_data, data) for index, data in enumerate(page_data)])
         return json_data
 
     async def get_page_data(self, page_number) -> dict:
