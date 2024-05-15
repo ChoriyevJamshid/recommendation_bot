@@ -1,9 +1,5 @@
-import time
-
-from parsing.parsers import *
+from parsing.base.parser import *
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
 
 categories = {
     'smartphone': {
@@ -145,35 +141,11 @@ class AsyncParser:
             await asyncio.sleep(5)
             await self.render_js_content(url, headers)
 
-    # async def render_js_content(self, url, timeout=30):
-    #     try:
-    #         browser = await asyncio.wait_for(pyppeteer.launch(), timeout=timeout)
-    #         page = await asyncio.wait_for(browser.newPage(), timeout=timeout)
-    #         await asyncio.wait_for(page.goto(url), timeout=timeout)
-    #         content = await asyncio.wait_for(page.content(), timeout=timeout)
-    #     except asyncio.TimeoutError:
-    #         return None
-    #     finally:
-    #         if browser and not browser.isClosed():
-    #             await browser.close()
-    #     return content
-
     async def get_soup(self, page=None):
         url = f"{self.URL}/ru/{self.category}/{self.subcategory}"
 
         if page is not None:
             url += f"?page={page}"
-        #
-        # print(f'\n{url}\n')
-        #
-        # headers = {
-        #     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
-        # }
-        #
-        # html = await self.render_js_content(url, headers)
-        # soup = BeautifulSoup(html, 'html.parser')
-        # # print(soup)
-        # return soup
 
         browser = webdriver.Chrome()
         browser.get(self.URL + f"/{self.category}/{self.subcategory}")
@@ -200,11 +172,11 @@ class AsyncParser:
     async def get_page_data(self, page_number):
         page_data = dict()
         soup = await self.get_soup(page_number)
+        i = 0
         try:
             cards_div = soup.find("div", id="category-products")
 
             cards = cards_div.find_all("div", class_="product-card")
-
             for index, card in enumerate(cards):
                 card_block = card.find("div", class_="card-info-block")
 
@@ -213,19 +185,23 @@ class AsyncParser:
                 price_credit = get_number_from_text(card_block.find("div", class_="badge").get_text(strip=True))
                 price = get_number_from_text(card.find("span", class_="product-card-price").get_text(strip=True))
 
-                data = {
-                    'link': link,
-                    'title': title,
-                    'price': price,
-                    'price_credit': price_credit,
-                }
+                if title.lower().split(' ')[1:][0] in ALLOWED_MARKS:
+                    data = {
+                        'link': link,
+                        'title': title,
+                        'price': price,
+                        'price_credit': price_credit,
+                    }
+                    i += 1
+                else:
+                    continue
 
-                page_data[str(index + 1)] = data
+                page_data[str(i)] = data
         except Exception as e:
             print(f'\n{e}\n')
             await self.get_page_data(page_number)
 
-        print(f'\nPage number: {page_number}, append = {index + 1} elements\n')
+        print(f'\nPage number: {page_number}, append = {i} elements\n')
         return page_data
 
     async def get_total_page(self) -> int:
@@ -235,7 +211,7 @@ class AsyncParser:
         json_data = await self.get_json_data()
         os.makedirs('json_data', exist_ok=True)
         current_time = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
-        file_name = self.dirname + current_time + ".json"
+        file_name = self.dirname + ".json"
         with open(f'json_data/{file_name}', 'w') as outfile:
             json.dump(json_data, outfile, indent=4, ensure_ascii=False)
 
@@ -253,7 +229,7 @@ if __name__ == '__main__':
     while True:
         print('Start parsing!...')
         try:
-            asyncio.run(parser.run())
+            asyncio.run(parser.get_page_data(1))
             break
         except Exception as e:
 

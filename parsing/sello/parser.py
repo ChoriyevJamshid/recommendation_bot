@@ -1,4 +1,4 @@
-from parsing.parsers import *
+from parsing.base.parser import *
 
 categories = {
     'smartphone': {
@@ -16,6 +16,7 @@ class Parser(BaseParser):
         self.category = category
         self.subcategory = subcategory
         self.file = __file__
+        self.function = append_dict
 
     async def get_soup(self, page=None):
         url = f"{self.URL}/category/elektronika/{self.category}/{self.subcategory}"
@@ -40,6 +41,7 @@ class Parser(BaseParser):
 
         cards = soup.find_all('div', class_='col mb-3')
         index = 0
+        i = 0
         for index, card in enumerate(cards):
             link = self.URL + card.find('a', class_="d-block p-1")['href']
             title = card.find("span", class_="t-truncate-4").get_text(strip=True)
@@ -48,14 +50,18 @@ class Parser(BaseParser):
                     f"#__next > div.w-100.h-100.mt-2.mt-lg-0.mb-3 > div.container.py-2 > div.d-block.d-md-flex > div:nth-child(2) > div.row.gx-2.gx-lg-3.row-cols-2.row-cols-sm-3.row-cols-md-4.row-cols-lg-5.row-cols-xl-5 > div:nth-child({index + 1}) > div > div.px-2.pb-3.position-relative > div")[
                     0].get_text(strip=True))
 
-            data = {
-                'link': link,
-                'title': title,
-                'price': price,
-            }
+            if title.lower().split(' ')[1:][0] in ALLOWED_MARKS:
+                data = {
+                    'link': link,
+                    'title': title,
+                    'price': price,
+                }
+                i += 1
+            else:
+                continue
 
-            page_data[str(index + 1)] = data
-        print(f'\nPage number: {page_number}, append = {index + 1} elements\n')
+            page_data[str(i)] = data
+        print(f'\nPage number: {page_number}, append = {i} elements\n')
         return page_data
 
     async def get_total_page(self) -> int:
@@ -63,7 +69,6 @@ class Parser(BaseParser):
         pagination = soup.find_all("li", class_="page-item")[-2]
         number = pagination.get_text(strip=True)
         if number:
-            print(number)
             return int(number)
         return 0
 

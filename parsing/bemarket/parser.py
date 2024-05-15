@@ -1,5 +1,4 @@
-from parsing.parsers import *
-from functions import get_hierarchical_dict, filter_items
+from parsing.base.parser import *
 
 categories = {
     'smartphone': {
@@ -16,8 +15,7 @@ class Parser(BaseParser):
         self.URL = 'https://market.beeline.uz'
         self.category = category
         self.subcategory = subcategory
-        self.function = recursion_dict_extend_dict
-        self.get_hierarchical_dict = get_hierarchical_dict
+        self.function = append_dict
 
     async def get_soup(self, page=None):
         url = f"{self.URL}/ru/{self.category}"
@@ -42,24 +40,25 @@ class Parser(BaseParser):
 
         cards = soup.find_all('a', class_='product-card')
         index = 0
+        i = 0
         for index, card in enumerate(cards):
             link = self.URL + card['href']
             title = card.find("h3", class_="product-card__name").get_text(strip=True)
             price = get_number_from_text(card.find("p", class_="text-base").get_text(strip=True))
 
-            data = {
-                'link': link,
-                'title': title,
-                'price': price,
-            }
+            if title.lower().split(' ')[0] in ALLOWED_MARKS:
+                data = {
+                    'link': link,
+                    'title': title,
+                    'price': price,
+                }
+                i += 1
+            else:
+                continue
 
-            items = title.lower().split(' ')
-            items = filter_items(items)
-            print(items)
-            # page_data[str(index + 1)] = data
-            self.get_hierarchical_dict(page_data, items, data)
+            page_data[str(i)] = data
 
-        print(f'\nPage number: {page_number}, append = {index + 1} elements\n')
+        print(f'\nPage number: {page_number}, append = {i} elements\n')
         return page_data
 
     async def get_total_page(self) -> int:
