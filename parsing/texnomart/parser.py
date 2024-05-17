@@ -50,7 +50,7 @@ class Parser(BaseParser):
             price = get_number_from_text(card.find("div", class_="product-price__current").get_text(strip=True))
             price_credit = get_number_from_text(card.find("div", class_="installment-price").get_text(strip=True))
 
-            if title.lower().split(' ')[1:][0] in ALLOWED_MARKS:
+            if title.lower().split(' ')[1] in ALLOWED_MARKS:
 
                 data = {
                     'link': link,
@@ -87,10 +87,14 @@ if __name__ == '__main__':
     start_time = time.perf_counter()
     while True:
         print('Start parsing!...')
+
         try:
+
             asyncio.run(parser.run())
             break
+
         except Exception as e:
+
             end_time = time.perf_counter()
             total_time = round(end_time - start_time, 3)
             print('Total time: ' + str(total_time))

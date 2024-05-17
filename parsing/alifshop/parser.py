@@ -60,7 +60,7 @@ class Parser(BaseParser):
             price = get_number_from_text(price)
             price_credit = get_number_from_text(price_credit)
 
-            if title.lower().split(" ")[1:][0] in ALLOWED_MARKS:
+            if title.lower().split(" ")[1] in ALLOWED_MARKS:
                 data = {
                     'link': link,
                     'title': title,

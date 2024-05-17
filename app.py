@@ -1,26 +1,28 @@
 import os
+import django
+
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'djconfig.settings')
+django.setup()
+
 import asyncio
 from aiogram import Bot, Dispatcher, types
 from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart, Command
 from dotenv import load_dotenv, find_dotenv
-from djapp.tasks import get_parsing_data
+from asgiref.sync import sync_to_async
+from djapp.models import Product
 
 load_dotenv(find_dotenv())
 
-from database.engine import create_db, drop_db
 
-bot = Bot(token=os.getenv('TOKEN'), parse_mode='HTML')
+
+bot = Bot(token=os.getenv('TOKEN'), parse_mode=ParseMode.HTML)
 
 dp = Dispatcher()
 
 
-async def on_startup(bot):
-    run_param = False
-    if run_param:
-        await drop_db()
-
-    await create_db()
+async def on_startup():
+    print('Bot started...')
 
 
 @dp.message(CommandStart())
@@ -28,15 +30,18 @@ async def command_start(message: types.Message):
     return await message.answer("<b>Assalomu alaykum!</b>")
 
 
-@dp.message(Command('parse'))
+@dp.message(Command('products'))
 async def command_parse(message: types.Message):
-    await message.answer("Parsing started!")
-    get_parsing_data.delay()
-    return await message.answer("Parsing finished!")
+    products = await sync_to_async(lambda: list(Product.objects.all()[:10]))()
+    text = 'Products\n'
+    print(products)
+    for product in products:
+        title = product.title
+        text += f"<b>{title}\n</b>"
+    return await message.answer(text)
 
 
 async def main():
-    print("Bot starting...")
     dp.startup.register(on_startup)
 
     await bot.delete_webhook(drop_pending_updates=True)

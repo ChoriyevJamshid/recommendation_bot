@@ -50,7 +50,7 @@ class Parser(BaseParser):
                     f"#__next > div.w-100.h-100.mt-2.mt-lg-0.mb-3 > div.container.py-2 > div.d-block.d-md-flex > div:nth-child(2) > div.row.gx-2.gx-lg-3.row-cols-2.row-cols-sm-3.row-cols-md-4.row-cols-lg-5.row-cols-xl-5 > div:nth-child({index + 1}) > div > div.px-2.pb-3.position-relative > div")[
                     0].get_text(strip=True))
 
-            if title.lower().split(' ')[1:][0] in ALLOWED_MARKS:
+            if title.lower().split(' ')[1] in ALLOWED_MARKS:
                 data = {
                     'link': link,
                     'title': title,

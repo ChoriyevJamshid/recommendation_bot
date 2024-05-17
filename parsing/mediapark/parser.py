@@ -47,7 +47,7 @@ class Parser(BaseParser):
             price = get_number_from_text(card.find("b", class_="text-dark").get_text(strip=True))
             price_credit = get_number_from_text(card.find("span", class_="text-blue-primary").get_text(strip=True))
 
-            if title.lower().split(' ')[1:][0] in ALLOWED_MARKS:
+            if title.lower().split(' ')[1] in ALLOWED_MARKS:
 
                 data = {
                     'link': link,
