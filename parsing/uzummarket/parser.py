@@ -142,7 +142,7 @@ class AsyncParser:
             await self.render_js_content(url, headers)
 
     async def get_soup(self, page=None):
-        url = f"{self.URL}/ru/{self.category}/{self.subcategory}"
+        url = f"{self.URL}/uz/{self.category}/{self.subcategory}"
 
         if page is not None:
             url += f"?page={page}"
@@ -210,9 +210,9 @@ class AsyncParser:
     async def write_json_file(self):
         json_data = await self.get_json_data()
         os.makedirs('json_data', exist_ok=True)
-        current_time = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+        # current_time = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
         file_name = self.dirname + ".json"
-        with open(f'json_data/{file_name}', 'w') as outfile:
+        with open(f'json_data/{file_name}', 'w', encoding='utf-8') as outfile:
             json.dump(json_data, outfile, indent=4, ensure_ascii=False)
 
     async def run(self):

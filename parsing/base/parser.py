@@ -86,7 +86,7 @@ class BaseParser:
         os.makedirs('json_data', exist_ok=True)
         file_name = self.dirname + '.' + self.category_type + ".json"
 
-        with open(f'json_data/{file_name}', 'w', encoding='utf-8') as outfile:
+        with open(f'json_data/{file_name}', mode='w', encoding='utf-8') as outfile:
             json.dump(json_data, outfile, indent=4, ensure_ascii=False)
 
     async def run(self):

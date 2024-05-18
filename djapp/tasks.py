@@ -19,16 +19,27 @@ def task_1():
 @shared_task
 def get_parsing_data():
     logger.info("Parser is working!")
-    # parse_data()
+    parse_data()
     list_dirs = os.listdir('parsing/json_data')
+    logger.info(f"Files: {list_dirs}")
+    time.sleep(5)
+
+    Product.objects.all().delete()
+
     for file_name in list_dirs:
+        data = None
         dir_name = file_name.split('.')[0]
         try:
+            logger.info(f"File name: {file_name}")
             with open(f'parsing/json_data/{file_name}', mode='r') as file:
                 data = json.load(file)
         except Exception as e:
-            logger.info(e)
-            return
+            logger.info(f"\nError = {e}\n")
+
+        if data is None:
+            print('\ndata is None\n')
+            time.sleep(5)
+            continue
 
         shop, created = Shop.objects.get_or_create(
             title=dir_name
@@ -39,11 +50,9 @@ def get_parsing_data():
             title='smartphone'
         )
 
-        products = Product.objects.all()
-        products.delete()
-
-        for page_data in data.values():
-            for product in page_data.values():
+        for page_number, page_data in data.items():
+            # logger.info(f"Page number: {page_number}")
+            for i, product in page_data.items():
 
                 obj = Product(
                     title=product['title'],
@@ -57,7 +66,10 @@ def get_parsing_data():
                     obj.price_credit = price_credit
 
                 obj.save()
-                logger.info(f'Created product: {obj}')
+                # logger.info(f"Product_{obj.pk} = {obj.title}")
+                # logger.info(f'Created product: {obj}')
+
+
 
 
 
