@@ -1,4 +1,4 @@
-from parsing.parsers import *
+from parsing.base.parser import *
 
 categories = {
     'smartphone': {
@@ -40,19 +40,25 @@ class Parser(BaseParser):
 
         cards = soup.find_all('a', class_='product-card')
         index = 0
+        i = 0
         for index, card in enumerate(cards):
             link = self.URL + card['href']
             title = card.find("h3", class_="product-card__name").get_text(strip=True)
             price = get_number_from_text(card.find("p", class_="text-base").get_text(strip=True))
 
-            data = {
-                'link': link,
-                'title': title,
-                'price': price,
-            }
+            if title.lower().split(' ')[0] in ALLOWED_MARKS:
+                data = {
+                    'link': link,
+                    'title': title,
+                    'price': price,
+                }
+                i += 1
+            else:
+                continue
 
-            page_data[str(index + 1)] = data
-        print(f'\nPage number: {page_number}, append = {index + 1} elements\n')
+            page_data[str(i)] = data
+
+        print(f'\nPage number: {page_number}, append = {i} elements\n')
         return page_data
 
     async def get_total_page(self) -> int:
